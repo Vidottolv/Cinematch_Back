@@ -2,13 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 
 def search_movies(genre):
-    """Searches for Netflix movies on the web using Google Search and displays the top 5 results.
-
-    Args:
-        genre: The movie genre to search for.
-
-    Returns:
-        None
+    """Search the top movies on google about the selected genre.
+    Args: genre
+    Output: top 5 movies
     """
     # IMDB Url
     search_url = f"https://www.google.com/search?q={genre}+"+" movies"
@@ -31,15 +27,13 @@ def search_movies(genre):
         #     movie_title = result.find("data-ttl").strip()
         #     movie_titles.append(movie_title)
 
-        print("Top 5 movies:")
+        print("Top 5 Filmes:")
         for i, title in enumerate(movie_titles[:5]):
             print(f"{i+1}. {title}")
     else:
         print("Error:", response.status_code)
 
 if __name__ == "__main__":
-    # Get the movie genre from the user
-    genre = input("Enter the movie genre you want to search for: ")
+    genre = input("Escreva o gênero que você quer assistir: ")
 
-    # Search for Netflix movies in the specified genre
     search_movies(genre)
