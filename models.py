@@ -6,6 +6,7 @@ class User(Base):
 
     IDUser = Column(Integer, primary_key=True, index=True)
     Username = Column(String(50), unique=True)
+    password = Column(String(500))
     
 
 class Movie(Base):
