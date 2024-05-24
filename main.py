@@ -1,4 +1,8 @@
-import signup
-import scrap
+import signup as signup
+import scrap as scrap
 
-signup.signup()
+def main():
+    signup.signup()
+
+if __name__ == "__main__":
+    main()
