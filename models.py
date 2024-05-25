@@ -6,13 +6,13 @@ class User(Base):
 
     IDUser = Column(Integer, primary_key=True, index=True)
     Email = Column(String(50), unique=True)
-    Password = Column(String(500))
+    Username = Column(String(50))
+    Password = Column(String(200))
     
 
-class Movie(Base):
-    __tablename__ = 'TBLMovies'
+class Genre(Base):
+    __tablename__ = 'TBLGenres'
 
-    IdMovie = Column(Integer, primary_key=True, index=True)
-    Title = Column(String(50))
-    Content = Column(String(100))
+    IDGenre = Column(Integer, primary_key=True, index=True)
+    GenreName = Column(String(50))
 

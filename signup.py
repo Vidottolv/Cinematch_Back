@@ -1,24 +1,9 @@
 import requests
+import getpass
+import json
 from scrap import search_movies
 
 def signup():
-    generos = {
-        1: "Ação",
-        2: "Aventura",
-        3: "Comédia",
-        4: "Comédia Romântica",
-        5: "Documentário",
-        6: "Faroeste",
-        7: "Ficção Científica",
-        8: "Guerra",
-        9: "Musical",
-        10: "Romance",
-        11: "Suspense",
-        12: "Terror\n",
-    }
-    """ 
-    
-    """
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
                         +"\n<S>im - - <N>ão\n")
@@ -27,11 +12,11 @@ def signup():
     
     if boolValid == 'S' or boolValid == 's':
         email_login = input("Insira seu email: ")
-        password_login = input("Insira sua senha: ")
-
+        password_login = getpass.getpass("Insira sua senha: ")
         url = f"http://localhost:8000/users/{email_login}"
+        headers = {'Content-type': 'application/json'}
         data = {"Email": email_login, "Password": password_login}
-        response = requests.get(url, json=data)
+        response = requests.post(url, data=json.dumps(data), headers=headers)
 
         if response.status_code == 200:
             print("Login realizado com sucesso")
@@ -42,12 +27,12 @@ def signup():
             print("Usuário não encontrado")
         else:
             print(f"Erro ao realizar login: {response.status_code}")
-
         return
     
     else:
         print("Vamos criar seu usuário!")
         newEmail = input("Insira um E-mail válido: ")
+        newUsername = input("Insira seu nome: ")
         newPassword = input("Insira sua senha: ")
         confirmPassword = input("Confirme sua senha: ")
     
@@ -58,7 +43,10 @@ def signup():
             print("Senhas não coincidem. Vamos tentar novamente!")
         
         url = "http://localhost:8000/users/"  
-        data = {"Email": newEmail, "Password": newPassword}
+        data = {
+            "Email": newEmail,
+            "Username": newUsername,
+            "Password": newPassword}
         response = requests.post(url, json=data)
         
         print(data)
@@ -68,8 +56,14 @@ def signup():
             print(newEmail, newPassword, confirmPassword)
             print("Legal! Você criou seu usuário.")
             
-            gen = int(input("Agora, qual o gênero de filme que você quer assistir? Escolha um número: \n" +
-                            "\n".join(f"{num} {genero} " for num, genero in generos.items())))
+            url = "http://localhost:8000/genres/"
+            response = requests.get(url)
+
+            if response.status_code == 200:
+                generos = response.json()
+                gen = int(input("Agora, qual o gênero de filme que você quer assistir? Escolha um número: \n" +
+                    "\n".join(f"{num} {genero} " for num, genero in enumerate(generos, start=1))))
+
             
             if gen not in generos:
                 print("Número de gênero inválido. Tente novamente.")
