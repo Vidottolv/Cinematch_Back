@@ -1,4 +1,5 @@
-from sqlalchemy import Boolean, Column, Integer, String
+from sqlalchemy import Column, Integer, String, ForeignKey
+from sqlalchemy.orm import relationship
 from db import Base
 
 class User(Base):
@@ -38,3 +39,19 @@ class KindMovie(Base):
 
     IDKindMovie = Column(Integer, primary_key=True, index=True)
     KindMovie = Column(String(50))
+
+class Preferences(Base):
+    __tablename__ = 'TBLPreferences'
+
+    IDPreference = Column(Integer, primary_key=True, index=True)
+    IDUser = Column(Integer, ForeignKey('TBLUsers.IDUser'))
+    IDGenre = Column(Integer, ForeignKey('TBLGenres.IDGenre'))
+    GenreName = relationship("Genre", backref="preferences")
+    IDStoryType = Column(Integer, ForeignKey('TBLStoryType.IDStoryType'))
+    StoryType = relationship("StoryType", backref="preferences")
+    IDAgeMovie = Column(Integer, ForeignKey('TBLAgeMovie.IDAgeMovie'))
+    AgeMovie = relationship("AgeMovie", backref="preferences")
+    IDEndMovie = Column(Integer, ForeignKey('TBLEndMovie.IDEndMovie'))
+    EndMovie = relationship("EndMovie", backref="preferences")
+    IDKindMovie = Column(Integer, ForeignKey('TBLKindMovie.IDKindMovie'))
+    KindMovie = relationship("KindMovie", backref="preferences")
