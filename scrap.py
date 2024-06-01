@@ -1,5 +1,12 @@
 import requests
+import os
 from bs4 import BeautifulSoup
+
+def clear():
+    if os.name == 'nt': 
+        os.system('cls')
+    else:
+        os.system('clear')
 
 def search_movies():
     url = "http://localhost:8000/genres/"
@@ -37,6 +44,7 @@ def search_movies():
                     year = year_div.text.strip()
                     full_movie_title = f"{title} ({year})"
                     movie_titles.append(full_movie_title)
+        clear()       
         print("Top 10 Filmes:")
         for i, title in enumerate(movie_titles[:10]):
             print(f"{i+1}. {title}")

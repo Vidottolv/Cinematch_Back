@@ -1,8 +1,16 @@
 import requests
 import getpass
 import json
+import os
+import time
 from scrap import search_movies
 from quiz import quiz
+
+def clear():
+    if os.name == 'nt': 
+        os.system('cls')
+    else:
+        os.system('clear')
 
 def signup():
     # quiz()
@@ -13,6 +21,7 @@ def signup():
         boolValid = input("Insira um valor válido!\n")
     
     if boolValid == 'S' or boolValid == 's':
+        clear()
         email_login = input("Insira seu email: ")
         password_login = getpass.getpass("Insira sua senha: ")
         url = f"http://localhost:8000/users/{email_login}"
@@ -22,6 +31,8 @@ def signup():
 
         if response.status_code == 200:
             print("Login realizado com sucesso")
+            time.sleep(0.5)
+            clear()
             search_movies()                      
         elif response.status_code == 401:
             print("Senha incorreta")
