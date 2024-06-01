@@ -2,8 +2,10 @@ import requests
 import getpass
 import json
 from scrap import search_movies
+from quiz import quiz
 
 def signup():
+    # quiz()
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
                         +"\n<S>im - - <N>ão\n")
@@ -20,7 +22,7 @@ def signup():
 
         if response.status_code == 200:
             print("Login realizado com sucesso")
-            print(response.json())  
+            search_movies()                      
         elif response.status_code == 401:
             print("Senha incorreta")
         elif response.status_code == 404:
@@ -48,36 +50,15 @@ def signup():
             "Username": newUsername,
             "Password": newPassword}
         response = requests.post(url, json=data)
-        
         print(data)
         
         if response.status_code == 201:
-            
             print(newEmail, newPassword, confirmPassword)
             print("Legal! Você criou seu usuário.")
-            
-            url = "http://localhost:8000/genres/"
-            response = requests.get(url)
-
-            if response.status_code == 200:
-                generos = response.json()
-                gen = int(input("Agora, qual o gênero de filme que você quer assistir? Escolha um número: \n" +
-                    "\n".join(f"{num} {genero} " for num, genero in enumerate(generos, start=1))))
-
-            
-            if gen not in generos:
-                print("Número de gênero inválido. Tente novamente.")
-                exit()
-            
-            genre = generos[gen]
-        
+            quiz()        
         else:
             print(f"Erro ao criar usuário: {response.text}")
-
             return
-    
-    print(genre)
-    search_movies(genre)
-    
+        
 if __name__ == "__main__":
     signup()
