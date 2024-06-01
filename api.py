@@ -58,6 +58,13 @@ class Preference(BaseModel):
     IDKindMovie: int
     KindMovie: str
 
+class SearchBase(BaseModel):
+    IDSearch: int
+    IDUser: int
+    IDGenre: int
+    GenreName: str
+
+
 def create_access_token(data: dict, expires_delta: timedelta | None = None):
     to_encode = data.copy()
     if expires_delta:
@@ -168,6 +175,14 @@ async def login_user(user_login: UserLogin, db: db_dependency):
     if not verify_password(user_login.Password, user.Password):
         raise HTTPException(status_code=401, detail='Incorrect Password')
     return user
+
+@app.post("/search/", status_code=status.HTTP_201_CREATED)
+async def input_search(search: SearchBase, db: db_dependency):
+    db_search = models.Search(IDUser=search.IDUser, IDGenre=search.IDGenre, GenreName=search.GenreName)
+    db.add(db_search)
+    db.commit()
+    return db_search
+
 
 @app.post("/preferences/", status_code=status.HTTP_201_CREATED)
 async def input_preferences(preference: Preference, db: db_dependency):

@@ -55,3 +55,11 @@ class Preferences(Base):
     EndMovie = relationship("EndMovie", backref="preferences")
     IDKindMovie = Column(Integer, ForeignKey('TBLKindMovie.IDKindMovie'))
     KindMovie = relationship("KindMovie", backref="preferences")
+
+class Search(Base):
+    __tablename__ = 'TBLSearchEv'
+
+    IDSearch = Column(Integer, primary_key=True, index=True)
+    IDUser = Column(Integer, ForeignKey('TBLUsers.IDUser'))
+    IDGenre = Column(Integer, ForeignKey('TBLGenres.IDGenre'))
+    GenreName = relationship("Genre", backref="preferences")
