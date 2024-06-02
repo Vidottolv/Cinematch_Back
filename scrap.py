@@ -36,36 +36,34 @@ def recap(aprox_movie):
     print("Top 10 Filmes:")
     for i, title in enumerate(movie_titles_recap[:10]):
         print(f"{i+1}. {title}")
-        print("\nE aí, gostou de algum filme? Se sim, digite <S>im, se não gostou, digite <N>ão.")
-        boolValid = input()
-        while boolValid not in ['s','S','n','N']:
-            boolValid = input("Insira um valor válido!\n")
-    
-        if boolValid in ['S', 's']:
-            movie_number = input("Que ótimo! Digite o número do filme que você gostou: ")
-            while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
-                movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
-            movie_index = int(movie_number) - 1
-            print(f"Você escolheu: {movie_titles_recap[movie_index]}")
-            return
-        else:
-            movie_number = input("Que pena! Pode nos informar qual filme chegou mais próximo do seu gosto? Digite aqui: ")
-            while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
-                movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
-            movie_index = int(movie_number) - 1
-            aprox_movie = movie_titles_recap[movie_index]
-            while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
-                movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
-            movie_index = int(movie_number) - 1
-            aprox_movie = movie_titles_recap[movie_index]
-            bool_recap = input(f"certo, o mais próximo do que você esperava é: {aprox_movie}."
-                  +"\nQuer pesquisar de forma mais apurada, com base nele?\n")
-            print(bool_recap)
-            while bool_recap not in ['s','S','n','N']:
-                bool_recap = input("Insira um valor válido!\n")
+    print("\nE aí, gostou de algum filme? Se sim, digite <S>im, se não gostou, digite <N>ão.")
+    boolValid = input()
+    while boolValid not in ['s','S','n','N']:
+        boolValid = input("Insira um valor válido!\n")
+    if boolValid in ['S', 's']:
+        movie_number = input("Que ótimo! Digite o número do filme que você gostou: ")
+        while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+            movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+        movie_index = int(movie_number) - 1
+        print(f"Você escolheu: {movie_titles_recap[movie_index]}.\nAproveite seu filme!")
+        return
+    else:
+        movie_number = input("Que pena! Pode nos informar qual filme chegou mais próximo do seu gosto? Digite aqui: ")
+        while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+            movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+        movie_index = int(movie_number) - 1
+        aprox_movie = movie_titles_recap[movie_index]
+        while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+            movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+        movie_index = int(movie_number) - 1
+        aprox_movie = movie_titles_recap[movie_index]
+        bool_recap = input(f"certo, o mais próximo do que você esperava é: {aprox_movie}."
+              +"\nQuer pesquisar de forma mais apurada, com base nele?\n")
+        while bool_recap not in ['s','S','n','N']:
+            bool_recap = input("Insira um valor válido!\n")
 
-            if bool_recap in ['S', 's']:
-                recap(aprox_movie)
+        if bool_recap in ['S', 's']:
+            recap(aprox_movie)
 
 def search_movies():
     url = "http://localhost:8000/genres/"
