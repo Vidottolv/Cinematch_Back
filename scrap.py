@@ -9,6 +9,64 @@ def clear():
     else:
         os.system('clear')
 
+def recap(aprox_movie):
+    print("Certo. Pesquisando...")
+    time.sleep(1)
+    clear()
+    search_url = f"https://www.google.com/search?q=filmes+similares+{aprox_movie}"
+    response = requests.get(search_url)
+    if response.status_code == 200:
+        soup_recap = BeautifulSoup(response.content, "html.parser")
+    with open("soup_recap.txt", "w", encoding='utf-8') as arquivo:
+        arquivo.write(str(soup_recap))
+    with open("soup_recap.txt", "r", encoding='utf-8') as arquivo:
+        soup_content = arquivo.read()
+        soup_recap = BeautifulSoup(soup_content, "html.parser")
+    movie_titles_recap = []
+    for movie_div in soup_recap.find_all("div", class_="RWuggc kCrYT"):
+        title_div = movie_div.find("div", class_="BNeawe s3v9rd AP7Wnd")
+        year_div = movie_div.find("div", class_="BNeawe tAd8D AP7Wnd")
+        if title_div and year_div:
+            if "..." not in title_div.text.strip():
+                title = title_div.text.strip()
+                year = year_div.text.strip()
+                full_movie_title = f"{title} ({year})"
+                movie_titles_recap.append(full_movie_title)
+    clear()       
+    print("Top 10 Filmes:")
+    for i, title in enumerate(movie_titles_recap[:10]):
+        print(f"{i+1}. {title}")
+        print("\nE aí, gostou de algum filme? Se sim, digite <S>im, se não gostou, digite <N>ão.")
+        boolValid = input()
+        while boolValid not in ['s','S','n','N']:
+            boolValid = input("Insira um valor válido!\n")
+    
+        if boolValid in ['S', 's']:
+            movie_number = input("Que ótimo! Digite o número do filme que você gostou: ")
+            while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+                movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+            movie_index = int(movie_number) - 1
+            print(f"Você escolheu: {movie_titles_recap[movie_index]}")
+            return
+        else:
+            movie_number = input("Que pena! Pode nos informar qual filme chegou mais próximo do seu gosto? Digite aqui: ")
+            while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+                movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+            movie_index = int(movie_number) - 1
+            aprox_movie = movie_titles_recap[movie_index]
+            while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+                movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+            movie_index = int(movie_number) - 1
+            aprox_movie = movie_titles_recap[movie_index]
+            bool_recap = input(f"certo, o mais próximo do que você esperava é: {aprox_movie}."
+                  +"\nQuer pesquisar de forma mais apurada, com base nele?\n")
+            print(bool_recap)
+            while bool_recap not in ['s','S','n','N']:
+                bool_recap = input("Insira um valor válido!\n")
+
+            if bool_recap in ['S', 's']:
+                recap(aprox_movie)
+
 def search_movies():
     url = "http://localhost:8000/genres/"
     response = requests.get(url)
@@ -60,47 +118,21 @@ def search_movies():
                 movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
             movie_index = int(movie_number) - 1
             print(f"Você escolheu: {movie_titles[movie_index]}")
+            return
         else:
             movie_number = input("Que pena! Pode nos informar qual filme chegou mais próximo do seu gosto? Digite aqui: ")
             while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
                 movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
             movie_index = int(movie_number) - 1
-            bool_recap = input(f"certo, o mais próximo do que você esperava é: {movie_titles[movie_index]}."
+            aprox_movie = movie_titles[movie_index]
+            bool_recap = input(f"certo, o mais próximo do que você esperava é: {aprox_movie}."
                   +"\nQuer pesquisar de forma mais apurada, com base nele?\n")
             print(bool_recap)
             while bool_recap not in ['s','S','n','N']:
                 bool_recap = input("Insira um valor válido!\n")
 
             if bool_recap in ['S', 's']:
-                print("Certo. Pesquisando...")
-                time.sleep(1)
-                clear()
-                search_url = f"https://www.google.com/search?q=filmes+similares+{movie_titles[movie_index]}"
-                response = requests.get(search_url)
-                if response.status_code == 200:
-                    soup_recap = BeautifulSoup(response.content, "html.parser")
-                with open("soup_recap.txt", "w", encoding='utf-8') as arquivo:
-                    arquivo.write(str(soup_recap))
-                with open("soup_recap.txt", "r", encoding='utf-8') as arquivo:
-                    soup_content = arquivo.read()
-                    soup_recap = BeautifulSoup(soup_content, "html.parser")
-                movie_titles_recap = []
-                for movie_div in soup_recap.find_all("div", class_="RWuggc kCrYT"):
-                    title_div = movie_div.find("div", class_="BNeawe s3v9rd AP7Wnd")
-                    year_div = movie_div.find("div", class_="BNeawe tAd8D AP7Wnd")
-
-                    if title_div and year_div:
-                        if "..." not in title_div.text.strip():
-                            title = title_div.text.strip()
-                            year = year_div.text.strip()
-                            full_movie_title = f"{title} ({year})"
-                            movie_titles_recap.append(full_movie_title)
-                clear()       
-                print("Top 10 Filmes:")
-                for i, title in enumerate(movie_titles_recap[:10]):
-                    print(f"{i+1}. {title}")
-
-
+                recap(aprox_movie)
 
 if __name__ == "__main__":
     genre = input("Escreva o gênero que você quer assistir: ")
