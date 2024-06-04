@@ -14,6 +14,7 @@ def clear():
 
 def signup():
     # quiz()
+    current_id_user = None
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
                         +"\n<S>im - - <N>ão\n")
@@ -31,8 +32,12 @@ def signup():
 
         if response.status_code == 200:
             print("Login realizado com sucesso")
+            response_content = response.content.decode('utf-8')  
+            user_data = json.loads(response_content)     
+            current_id_user = user_data['IDUser']
+            print(current_id_user)    
             time.sleep(0.5)
-            clear()
+            # clear()
             search_movies()                      
         elif response.status_code == 401:
             print("Senha incorreta")
@@ -61,6 +66,7 @@ def signup():
             "Username": newUsername,
             "Password": newPassword}
         response = requests.post(url, json=data)
+        print('🚀 ~ ', response)
         print(data)
         
         if response.status_code == 201:

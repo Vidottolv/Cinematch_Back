@@ -137,7 +137,7 @@ def quiz():
     if response.status_code == 201:
         print("Preferências salvas com sucesso!")
     else:
-        print(f"Erro ao salvar preferências: {response}")
+        print(f"Erro ao salvar preferências: {response.status_code}")
 
 if __name__ == "__main__":
     quiz()
