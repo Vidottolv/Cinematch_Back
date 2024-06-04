@@ -64,52 +64,67 @@ class SearchBase(BaseModel):
     IDGenre: int
     GenreName: str
 
+#COMEÇA AQUI
 
-# def create_access_token(data: dict, expires_delta: timedelta | None = None):
-#     to_encode = data.copy()
-#     if expires_delta:
-#         expire = datetime.utcnow() + expires_delta
-#     else:
-#         expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
-#     to_encode.update({"exp": expire})
-#     encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
-#     return encoded_jwt
+def create_access_token(data: dict, expires_delta: timedelta | None = None):
+    to_encode = data.copy()
+    if expires_delta:
+        expire = datetime.utcnow() + expires_delta
+    else:
+        expire = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    to_encode.update({"exp": expire})
+    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
+    return encoded_jwt
 
-# async def get_current_user(token: Annotated[str, Depends(oauth2_scheme)], db: Session):
-#     credentials_exception = HTTPException(
-#         status_code=status.HTTP_401_UNAUTHORIZED,
-#         detail="Could not validate credentials",
-#         headers={"WWW-Authenticate": "Bearer"},
-#     )
-#     try:
-#         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
-#         email: str = payload.get("sub")
-#         if email is None:
-#             raise credentials_exception
-#         token_data = TokenData(email=email)
-#     except JWTError:
-#         raise credentials_exception
-#     user = db.query(models.User).filter(models.User.email == token_data.email).first()
-#     if user is None:
-#         raise credentials_exception
-#     return user
+async def get_current_user(token: Annotated[str, Depends(oauth2_scheme)], db: Session):
+    credentials_exception = HTTPException(
+        status_code=status.HTTP_401_UNAUTHORIZED,
+        detail="Could not validate credentials",
+        headers={"WWW-Authenticate": "Bearer"},
+    )
+    try:
+        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
+        email: str = payload.get("sub")
+        if email is None:
+            raise credentials_exception
+        token_data = TokenData(email=email)
+    except JWTError:
+        raise credentials_exception
+    user = db.query(models.User).filter(models.User.email == token_data.email).first()
+    if user is None:
+        raise credentials_exception
+    return user
 
-# @app.post("/token", response_model=Token)
-# async def login_user(form_data: Annotated[OAuth2PasswordRequestForm, Depends()], db: Session):
-#     user = db.query(models.User).filter(models.User.email == form_data.username).first()
-#     if user is None:
-#         raise HTTPException(status_code=404, detail='User not found')
-#     if not verify_password(form_data.password, user.password):
-#         raise HTTPException(status_code=401, detail='Incorrect password')
-#     access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
-#     access_token = create_access_token(
-#         data={"sub": user.email}, expires_delta=access_token_expires
-#     )
-#     return {"access_token": access_token, "token_type": "bearer"}
+@app.post("/token", response_model=Token)
+async def login_user(form_data: Annotated[OAuth2PasswordRequestForm, Depends()], db: Session):
+    user = db.query(models.User).filter(models.User.email == form_data.username).first()
+    if user is None:
+        raise HTTPException(status_code=404, detail='User not found')
+    if not verify_password(form_data.password, user.password):
+        raise HTTPException(status_code=401, detail='Incorrect password')
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.email}, expires_delta=access_token_expires
+    )
+    return {"access_token": access_token, "token_type": "bearer"}
 
-# @app.get("/users/me", response_model=UserBase)
-# async def read_users_me(current_user: Annotated[UserBase, Depends(get_current_user)]):
-    # return current_user
+@app.get("/users/me", response_model=UserBase)
+async def read_users_me(current_user: Annotated[UserBase, Depends(get_current_user)]):
+    return current_user
+
+@app.post("/token", response_model=Token)
+async def login_user(form_data: Annotated[OAuth2PasswordRequestForm, Depends()], db: db_dependency):
+    user = db.query(models.User).filter(models.User.Email == form_data.username).first()
+    if user is None:
+        raise HTTPException(status_code=404, detail='User not Found')
+    if not verify_password(form_data.password, user.Password):
+        raise HTTPException(status_code=401, detail='Incorrect Password')
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": user.Email}, expires_delta=access_token_expires
+    )
+    return {"access_token": access_token, "token_type": "bearer"}
+# TERMINA AQUI
 
 @app.get("/genres", status_code=status.HTTP_200_OK)
 async def get_genres(db: db_dependency):
@@ -154,18 +169,6 @@ async def create_user(user: UserBase, db: db_dependency):
     db.commit()
     return db_user
 
-# @app.post("/token", response_model=Token)
-# async def login_user(form_data: Annotated[OAuth2PasswordRequestForm, Depends()], db: db_dependency):
-#     user = db.query(models.User).filter(models.User.Email == form_data.username).first()
-#     if user is None:
-#         raise HTTPException(status_code=404, detail='User not Found')
-#     if not verify_password(form_data.password, user.Password):
-#         raise HTTPException(status_code=401, detail='Incorrect Password')
-#     access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
-#     access_token = create_access_token(
-#         data={"sub": user.Email}, expires_delta=access_token_expires
-#     )
-#     return {"access_token": access_token, "token_type": "bearer"}
 
 @app.post("/users/{Email}", status_code=status.HTTP_200_OK)
 async def login_user(user_login: UserLogin, db: db_dependency):
