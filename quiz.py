@@ -1,5 +1,6 @@
 import requests
 import json
+# from signup import current_id_user
 
 respostas = []
 
@@ -119,16 +120,17 @@ def get_pergunta_5():
         exit()  
         
 def quiz():
+    # IDUser = current_id_user
+    # print(IDUser)
     print("Bora começar seu Quiz? Ele é importante para podermos melhorar as buscas por sua preferência.")
     get_pergunta_1()
     get_pergunta_2()
     get_pergunta_3()
     get_pergunta_4()
     get_pergunta_5()
-    response = requests.get("http://localhost:8000/users/me")
-    if response.status_code == 200:
-        iduser = response.json()
-        respostas.append(iduser)
+    # IDUser = response.json()
+    # print(IDUser)
+    # respostas.append(IDUser)
 
     respostas_json = json.dumps(respostas)
     print(respostas_json)

@@ -1,13 +1,10 @@
 from fastapi import FastAPI, HTTPException, Depends, status
-from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from pydantic import BaseModel, EmailStr
 from typing import Annotated
 from sqlalchemy.orm import Session
 import models
 from db import engine, SessionLocal
 from security import verify_password, get_password_hash
-from datetime import datetime, timedelta
-from jose import JWTError, jwt
 
 SECRET_KEY = "b10f469883d28ac3ef86cc14c5e0ed21148c507ea9635ea3da0ce95a245c2608"
 ALGORITHM = "HS256"
@@ -23,8 +20,6 @@ def get_db():
         db.close()
 
 models.Base.metadata.create_all(bind=engine)
-
-oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 db_dependency = Annotated[Session, Depends(get_db)]
 
@@ -99,21 +94,18 @@ async def get_kindmovies(db: db_dependency):
         raise HTTPException(status_code=404, detail='KindMovie was not Found')
     return kindmovie
 
-@app.post("/users/", status_code=status.HTTP_201_CREATED)
+@app.post("/create_user/", status_code=status.HTTP_201_CREATED)
 async def create_user(user: UserBase, db: db_dependency):
     hashed_password = get_password_hash(user.Password)
     db_user = models.User(Email=user.Email, Username=user.Username, Password=hashed_password)
     db.add(db_user)
     db.commit()
     db.refresh(db_user)
-
     return db_user
 
-
-@app.post("/users/{Email}", status_code=status.HTTP_200_OK)
+@app.post("/login_user/{Email}", status_code=status.HTTP_200_OK)
 async def login_user(user_login: UserLogin, db: db_dependency):
     user = db.query(models.User).where(models.User.Email == user_login.Email).first()
-
     if user is None:
         raise HTTPException(status_code=404, detail='User not Found')
     if not verify_password(user_login.Password, user.Password):
@@ -127,12 +119,10 @@ async def input_search(search: SearchBase, db: db_dependency):
     db.commit()
     return db_search
 
-
 @app.post("/preferences/", status_code=status.HTTP_201_CREATED)
 async def input_preferences(preference: Preference, db: db_dependency):
     if not preference.IDUser or not preference.IDGenre or not preference.IDStoryType or not preference.IDAgeMovie or not preference.IDEndMovie or not preference.IDKindMovie:
         raise HTTPException(status_code=status.HTTP_422_UNPROCESSABLE_ENTITY, detail="Missing required fields")
-    print('1')
     new_preference = models.Preference(**preference.dict())
     db.add(new_preference)
     db.commit()

@@ -6,6 +6,8 @@ import time
 from scrap import search_movies
 from quiz import quiz
 
+current_id_user = None
+
 def clear():
     if os.name == 'nt': 
         os.system('cls')
@@ -14,7 +16,7 @@ def clear():
 
 def signup():
     # quiz()
-    current_id_user = None
+    # current_id_user = None 
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
                         +"\n<S>im - - <N>ão\n")
@@ -25,7 +27,7 @@ def signup():
         clear()
         email_login = input("Insira seu email: ")
         password_login = getpass.getpass("Insira sua senha: ")
-        url = f"http://localhost:8000/users/{email_login}"
+        url = f"http://localhost:8000/login_user/{email_login}"
         headers = {'Content-type': 'application/json'}
         data = {"Email": email_login, "Password": password_login}
         response = requests.post(url, data=json.dumps(data), headers=headers)
@@ -60,7 +62,7 @@ def signup():
             
             print("Senhas não coincidem. Vamos tentar novamente!")
         
-        url = "http://localhost:8000/users/"  
+        url = "http://localhost:8000/create_user/"  
         data = {
             "Email": newEmail,
             "Username": newUsername,
