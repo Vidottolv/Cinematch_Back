@@ -115,7 +115,7 @@ def search_movies():
             while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
                 movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
             movie_index = int(movie_number) - 1
-            print(f"Você escolheu: {movie_titles[movie_index]}")
+            print(f"Você escolheu: {movie_titles[movie_index]}.\nAproveite seu filme!")
             return
         else:
             movie_number = input("Que pena! Pode nos informar qual filme chegou mais próximo do seu gosto? Digite aqui: ")
