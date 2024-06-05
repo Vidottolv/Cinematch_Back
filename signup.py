@@ -6,8 +6,6 @@ import time
 from scrap import search_movies
 from quiz import quiz
 
-current_id_user = None
-
 def clear():
     if os.name == 'nt': 
         os.system('cls')
@@ -15,8 +13,9 @@ def clear():
         os.system('clear')
 
 def signup():
+    global current_id_user
+
     # quiz()
-    # current_id_user = None 
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
                         +"\n<S>im - - <N>ão\n")
@@ -39,8 +38,8 @@ def signup():
             current_id_user = user_data['IDUser']
             print(current_id_user)    
             time.sleep(0.5)
-            # clear()
-            search_movies()                      
+            clear()
+            search_movies(current_id_user)                      
         elif response.status_code == 401:
             print("Senha incorreta")
         elif response.status_code == 404:

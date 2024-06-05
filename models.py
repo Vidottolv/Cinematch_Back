@@ -62,4 +62,4 @@ class Search(Base):
     IDSearch = Column(Integer, primary_key=True, index=True)
     IDUser = Column(Integer, ForeignKey('TBLUsers.IDUser'))
     IDGenre = Column(Integer, ForeignKey('TBLGenres.IDGenre'))
-    GenreName = relationship("Genre", backref="search")
+    GenreName = Column(String, ForeignKey('TBLGenres.GenreName'))

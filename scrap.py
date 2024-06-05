@@ -1,6 +1,7 @@
 import requests
 import os
 import time
+import json
 from bs4 import BeautifulSoup
 
 def clear():
@@ -65,7 +66,7 @@ def recap(aprox_movie):
         if bool_recap in ['S', 's']:
             recap(aprox_movie)
 
-def search_movies():
+def search_movies(iduser):
     url = "http://localhost:8000/genres/"
     response = requests.get(url)
     
@@ -79,7 +80,13 @@ def search_movies():
             print("Número de gênero inválido. Tente novamente.")
             exit()
         genre = genero_dict[gen]['GenreName']
-        
+
+        data = {
+            "IDUser": iduser, 
+            "IDGenre": genero_dict[gen]['IDGenre'], 
+            "GenreName": genero_dict[gen]['GenreName']}
+        response = requests.post("http://localhost:8000/search/", json=data)
+         
     search_url = f"https://www.google.com/search?q=filmes+de+{genre}"
     response = requests.get(search_url)
 

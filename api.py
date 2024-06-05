@@ -5,6 +5,7 @@ from sqlalchemy.orm import Session
 import models
 from db import engine, SessionLocal
 from security import verify_password, get_password_hash
+from sqlalchemy import desc
 
 SECRET_KEY = "b10f469883d28ac3ef86cc14c5e0ed21148c507ea9635ea3da0ce95a245c2608"
 ALGORITHM = "HS256"
@@ -55,6 +56,11 @@ class Preference(BaseModel):
 
 class SearchBase(BaseModel):
     IDSearch: int
+    IDUser: int
+    IDGenre: int
+    GenreName: str
+
+class SearchPost(BaseModel):
     IDUser: int
     IDGenre: int
     GenreName: str
@@ -113,7 +119,7 @@ async def login_user(user_login: UserLogin, db: db_dependency):
     return user
 
 @app.post("/search/", status_code=status.HTTP_201_CREATED)
-async def input_search(search: SearchBase, db: db_dependency):
+async def input_search(search: SearchPost, db: db_dependency):
     db_search = models.Search(IDUser=search.IDUser, IDGenre=search.IDGenre, GenreName=search.GenreName)
     db.add(db_search)
     db.commit()
