@@ -15,7 +15,6 @@ def clear():
 def signup():
     global current_id_user
 
-    # quiz()
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
                         +"\n<S>im - - <N>ão\n")
@@ -73,7 +72,10 @@ def signup():
         if response.status_code == 201:
             print(newEmail, newPassword, confirmPassword)
             print("Legal! Você criou seu usuário.")
-            quiz()        
+            response_content = response.content.decode('utf-8')  
+            user_data = json.loads(response_content)     
+            current_id_user = user_data['IDUser']
+            quiz(current_id_user)        
         else:
             print(f"Erro ao criar usuário: {response.text}")
             return

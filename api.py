@@ -41,7 +41,6 @@ class TokenData(BaseModel):
     email: str | None = None
 
 class Preference(BaseModel):
-    IDPreference: int
     IDUser: int
     IDGenre: int
     GenreName: str
@@ -147,9 +146,12 @@ async def input_choose(choose: ChoosePost, db: db_dependency):
 
 @app.post("/preferences/", status_code=status.HTTP_201_CREATED)
 async def input_preferences(preference: Preference, db: db_dependency):
-    if not preference.IDUser or not preference.IDGenre or not preference.IDStoryType or not preference.IDAgeMovie or not preference.IDEndMovie or not preference.IDKindMovie:
-        raise HTTPException(status_code=status.HTTP_422_UNPROCESSABLE_ENTITY, detail="Missing required fields")
-    new_preference = models.Preference(**preference.dict())
+    new_preference = models.Preferences(IDUser=preference.IDUser, \
+                                        IDGenre=preference.IDGenre, GenreName=preference.GenreName, \
+                                        IDStoryType=preference.IDStoryType, StoryType=preference.StoryType, \
+                                        IDAgeMovie=preference.IDAgeMovie, AgeMovie=preference.AgeMovie, \
+                                        IDEndMovie=preference.IDEndMovie, EndMovie=preference.EndMovie, \
+                                        IDKindMovie=preference.IDKindMovie, KindMovie=preference.KindMovie)
     db.add(new_preference)
     db.commit()
     return new_preference

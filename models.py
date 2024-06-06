@@ -46,15 +46,15 @@ class Preferences(Base):
     IDPreference = Column(Integer, primary_key=True, index=True)
     IDUser = Column(Integer, ForeignKey('TBLUsers.IDUser'))
     IDGenre = Column(Integer, ForeignKey('TBLGenres.IDGenre'))
-    GenreName = relationship("Genre", backref="preferences")
+    GenreName = Column(String(50))
     IDStoryType = Column(Integer, ForeignKey('TBLStoryType.IDStoryType'))
-    StoryType = relationship("StoryType", backref="preferences")
+    StoryType = Column(String(50))
     IDAgeMovie = Column(Integer, ForeignKey('TBLAgeMovie.IDAgeMovie'))
-    AgeMovie = relationship("AgeMovie", backref="preferences")
+    AgeMovie =  Column(String(50))
     IDEndMovie = Column(Integer, ForeignKey('TBLEndMovie.IDEndMovie'))
-    EndMovie = relationship("EndMovie", backref="preferences")
+    EndMovie =  Column(String(50))
     IDKindMovie = Column(Integer, ForeignKey('TBLKindMovie.IDKindMovie'))
-    KindMovie = relationship("KindMovie", backref="preferences")
+    KindMovie =  Column(String(50))
 
 class Search(Base):
     __tablename__ = 'TBLSearchEv'
