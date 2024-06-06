@@ -63,3 +63,12 @@ class Search(Base):
     IDUser = Column(Integer, ForeignKey('TBLUsers.IDUser'))
     IDGenre = Column(Integer, ForeignKey('TBLGenres.IDGenre'))
     GenreName = Column(String, ForeignKey('TBLGenres.GenreName'))
+
+class Choose(Base):
+    __tablename__ = 'TBLChooseEv'
+
+    IDChoose = Column(Integer, primary_key=True, index=True)
+    IDUser = Column(Integer, ForeignKey('TBLUsers.IDUser'))
+    IDGenre = Column(Integer, ForeignKey('TBLGenres.IDGenre'))
+    GenreName = Column(String, ForeignKey('TBLGenres.GenreName'))
+    MovieName = Column(String(50))

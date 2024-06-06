@@ -65,6 +65,19 @@ class SearchPost(BaseModel):
     IDGenre: int
     GenreName: str
 
+class ChooseBase(BaseModel):
+    IDChoose: int
+    IDUser: int
+    IDGenre: int
+    GenreName: str
+
+class ChoosePost(BaseModel):
+    IDUser: int
+    IDGenre: int
+    GenreName: str
+    MovieName: str
+
+
 @app.get("/genres", status_code=status.HTTP_200_OK)
 async def get_genres(db: db_dependency):
     genre = db.query(models.Genre).all()
@@ -124,6 +137,13 @@ async def input_search(search: SearchPost, db: db_dependency):
     db.add(db_search)
     db.commit()
     return db_search
+
+@app.post("/choose/", status_code=status.HTTP_201_CREATED)
+async def input_choose(choose: ChoosePost, db: db_dependency):
+    db_choose = models.Choose(IDUser=choose.IDUser, IDGenre=choose.IDGenre, GenreName=choose.GenreName, MovieName=choose.MovieName)
+    db.add(db_choose)
+    db.commit()
+    return db_choose
 
 @app.post("/preferences/", status_code=status.HTTP_201_CREATED)
 async def input_preferences(preference: Preference, db: db_dependency):

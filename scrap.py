@@ -106,7 +106,7 @@ def search_movies(iduser):
                 if "..." not in title_div.text.strip():
                     title = title_div.text.strip()
                     year = year_div.text.strip()
-                    full_movie_title = f"{title} ({year})"
+                    full_movie_title = f"{title} - ({year})"
                     movie_titles.append(full_movie_title)
         clear()       
         print("Top 10 Filmes:")
@@ -122,6 +122,13 @@ def search_movies(iduser):
             while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
                 movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
             movie_index = int(movie_number) - 1
+            data = {
+                "IDUser":iduser,
+                "IDGenre": genero_dict[gen]['IDGenre'],
+                "GenreName": genero_dict[gen]['GenreName'],
+                "MovieName": movie_titles[movie_index]}
+            requests.post("http://localhost:8000/choose/", json=data)
+
             print(f"Você escolheu: {movie_titles[movie_index]}.\nAproveite seu filme!")
             return
         else:
