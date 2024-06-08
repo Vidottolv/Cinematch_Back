@@ -13,7 +13,7 @@ def clear():
         os.system('clear')
 
 def signup():
-    global current_id_user
+    global current_id_user, current_name_user
 
     boolValid = input("\nBem-Vindo ao Cinematch! "
                         +"\n\nJá tem conta?"
@@ -35,10 +35,17 @@ def signup():
             response_content = response.content.decode('utf-8')  
             user_data = json.loads(response_content)     
             current_id_user = user_data['IDUser']
-            print(current_id_user)    
-            time.sleep(0.5)
+            current_name_user = user_data['Username']
+            time.sleep(1)
             clear()
-            search_movies(current_id_user)                      
+            url = f"http://localhost:8000/most_choosed?IDUser={current_id_user}"
+            response = requests.get(url)
+            if response.status_code == 200:
+                response_content = response.content.decode('utf-8').strip('"')
+                print(f"Bem-vindo de volta, {current_name_user}.\n"
+                      +f"Estávamos fazendo umas pesquisas e vimos aqui que seu gênero favorito é: {response_content}.\n"
+                      +"Gostaria de pesquisar filmes deste gênero?")
+            # search_movies(current_id_user)                      
         elif response.status_code == 401:
             print("Senha incorreta")
         elif response.status_code == 404:

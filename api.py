@@ -1,11 +1,10 @@
-from fastapi import FastAPI, HTTPException, Depends, status
+from fastapi import FastAPI, HTTPException, Depends, Query, status
 from pydantic import BaseModel, EmailStr
 from typing import Annotated
 from sqlalchemy.orm import Session
 import models
 from db import engine, SessionLocal
 from security import verify_password, get_password_hash
-from sqlalchemy import desc
 
 SECRET_KEY = "b10f469883d28ac3ef86cc14c5e0ed21148c507ea9635ea3da0ce95a245c2608"
 ALGORITHM = "HS256"
@@ -132,17 +131,31 @@ async def login_user(user_login: UserLogin, db: db_dependency):
 
 @app.post("/search/", status_code=status.HTTP_201_CREATED)
 async def input_search(search: SearchPost, db: db_dependency):
-    db_search = models.Search(IDUser=search.IDUser, IDGenre=search.IDGenre, GenreName=search.GenreName)
+    db_search = models.Search(IDUser=search.IDUser, \
+                              IDGenre=search.IDGenre, \
+                              GenreName=search.GenreName)
     db.add(db_search)
     db.commit()
     return db_search
 
 @app.post("/choose/", status_code=status.HTTP_201_CREATED)
 async def input_choose(choose: ChoosePost, db: db_dependency):
-    db_choose = models.Choose(IDUser=choose.IDUser, IDGenre=choose.IDGenre, GenreName=choose.GenreName, MovieName=choose.MovieName)
+    db_choose = models.Choose(IDUser=choose.IDUser, \
+                              IDGenre=choose.IDGenre, \
+                              GenreName=choose.GenreName, \
+                              MovieName=choose.MovieName)
     db.add(db_choose)
     db.commit()
     return db_choose
+
+@app.get("/most_choosed", status_code=status.HTTP_200_OK)
+async def get_most_choosed(db: db_dependency, IDUser: int = Query(...)):
+    choosed = db.query(models.Choose).where(models.Choose.IDUser == IDUser).all()
+    genre_counts = {}
+    for choice in choosed:
+        genre_counts[choice.GenreName] = genre_counts.get(choice.GenreName, 0) + 1
+    most_viewed_genre = max(genre_counts, key=genre_counts.get)
+    return most_viewed_genre
 
 @app.post("/preferences/", status_code=status.HTTP_201_CREATED)
 async def input_preferences(preference: Preference, db: db_dependency):
