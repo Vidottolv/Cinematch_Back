@@ -168,3 +168,7 @@ async def input_preferences(preference: Preference, db: db_dependency):
     db.add(new_preference)
     db.commit()
     return new_preference
+
+@app.get("get_preferences", status_code=status.HTTP_200_OK)
+async def get_preferences(db: db_dependency, IDUser: int = Query(...)):
+    print()

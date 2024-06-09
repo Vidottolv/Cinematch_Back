@@ -3,7 +3,7 @@ import getpass
 import json
 import os
 import time
-from scrap import search_movies
+from scrap import search_movies, find_by_preference
 from quiz import quiz
 
 def clear():
@@ -38,14 +38,20 @@ def signup():
             current_name_user = user_data['Username']
             time.sleep(1)
             clear()
-            url = f"http://localhost:8000/most_choosed?IDUser={current_id_user}"
-            response = requests.get(url)
-            if response.status_code == 200:
-                response_content = response.content.decode('utf-8').strip('"')
-                print(f"Bem-vindo de volta, {current_name_user}.\n"
-                      +f"Estávamos fazendo umas pesquisas e vimos aqui que seu gênero favorito é: {response_content}.\n"
-                      +"Gostaria de pesquisar filmes deste gênero?")
-            # search_movies(current_id_user)                      
+            print(f"Bem vindo de volta, {current_name_user}.\n\n"
+                  +"Gostaria de pesquisar os filmes de que forma hoje?\n"
+                  +"1. Pesquisando através de minhas preferências.\n"
+                  +"2. Pesquisa por gênero.")
+            kind_search = int(input())
+            while kind_search not in [1,2]:
+                print("Insira um valor válido.\n")
+            
+            if kind_search == 1:
+                find_by_preference(current_id_user,current_name_user)
+
+            elif kind_search == 2:
+                search_movies(current_id_user)        
+
         elif response.status_code == 401:
             print("Senha incorreta")
         elif response.status_code == 404:

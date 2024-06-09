@@ -1,18 +1,6 @@
 import requests
 import json
 
-# respostas = []
-# IDgenre = '' 
-# Gernename = ''
-# IDStorytype = ''
-# Storytype = ''
-# IDAgemovie = ''
-# Agemovie = ''
-# IDendmovie = ''
-# Endmovie = ''
-# IDkindmovie = ''
-# Kindmovie = '' 
-
 def get_pergunta_1():
     global IDgenre, Gernename
     url = "http://localhost:8000/genres/"

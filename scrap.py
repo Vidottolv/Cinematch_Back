@@ -146,6 +146,11 @@ def search_movies(iduser):
             if bool_recap in ['S', 's']:
                 recap(aprox_movie)
 
+def find_by_preference(iduser,nameuser):
+    requests.get("http://localhost:8000/choose/")
+    print(f"Certo, {nameuser}. Iremos pesquisar por filmes com:")
+
+
 if __name__ == "__main__":
     genre = input("Escreva o gênero que você quer assistir: ")
     search_movies()
