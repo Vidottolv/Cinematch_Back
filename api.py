@@ -169,6 +169,7 @@ async def input_preferences(preference: Preference, db: db_dependency):
     db.commit()
     return new_preference
 
-@app.get("get_preferences", status_code=status.HTTP_200_OK)
+@app.get("/get_preferences", status_code=status.HTTP_200_OK)
 async def get_preferences(db: db_dependency, IDUser: int = Query(...)):
-    print()
+    preference = db.query(models.Preferences).where(models.Preferences.IDUser == IDUser).first()
+    return preference

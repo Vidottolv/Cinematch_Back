@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+
+<html class="html" lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<link href="https://barco.art.br/xmlrpc.php" rel="pingback"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<!-- This site is optimized with the Yoast SEO plugin v20.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>110 filmes e séries para refletir sobre o contemporâneo</title>
+<meta content="Filmes e séries que serão abordados no curso: “Cinema, Séries, Literatura e Filosofia – Reflexões Sobre o Contemporâneo”, ministrado por Daniel Augusto" name="description">
+<link href="https://barco.art.br/110-filmes-series-contemporaneo/" rel="canonical">
+<meta content="pt_BR" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="16 livros sobre roteiro e dramaturgia, por Rubens Rewald" property="og:title"/>
+<meta content="Professor do curso “O Argumento - Criação de Histórias para Cinema” recomenda 16 leituras para quem pretende se aprofundar na escrita de roteiros audiovisuais e se preparar para as aulas online" property="og:description"/>
+<meta content="https://barco.art.br/110-filmes-series-contemporaneo/" property="og:url"/>
+<meta content="b_arco" property="og:site_name"/>
+<meta content="2020-10-27T20:20:56+00:00" property="article:published_time"/>
+<meta content="2020-10-27T21:50:44+00:00" property="article:modified_time"/>
+<meta content="https://barco.art.br/wp-content/uploads/2020/10/roterio.jpeg" property="og:image"/>
+<meta content="1280" property="og:image:width"/>
+<meta content="852" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="B_arco" name="author"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="16 livros sobre roteiro e dramaturgia, por Rubens Rewald" name="twitter:title"/>
+<meta content="Professor do curso “O Argumento - Criação de Histórias para Cinema” recomenda 16 leituras para quem pretende se aprofundar na escrita de roteiros audiovisuais e se preparar para as aulas online" name="twitter:description"/>
+<meta content="https://barco.art.br/wp-content/uploads/2020/10/roterio.jpeg" name="twitter:image"/>
+<meta content="Escrito por" name="twitter:label1"/>
+<meta content="B_arco" name="twitter:data1"/>
+<meta content="Est. tempo de leitura" name="twitter:label2"/>
+<meta content="5 minutos" name="twitter:data2"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://barco.art.br/110-filmes-series-contemporaneo/#article","isPartOf":{"@id":"https://barco.art.br/110-filmes-series-contemporaneo/"},"author":{"name":"B_arco","@id":"https://barco.art.br/#/schema/person/ccbcf8ac4ab7bb3e8aa6cc7c2b61f4db"},"headline":"110 filmes e séries para refletir sobre o contemporâneo, por Daniel Augusto","datePublished":"2020-10-27T20:20:56+00:00","dateModified":"2020-10-27T21:50:44+00:00","mainEntityOfPage":{"@id":"https://barco.art.br/110-filmes-series-contemporaneo/"},"wordCount":941,"commentCount":0,"publisher":{"@id":"https://barco.art.br/#organization"},"image":{"@id":"https://barco.art.br/110-filmes-series-contemporaneo/#primaryimage"},"thumbnailUrl":"https://barco.art.br/wp-content/uploads/2020/10/whatsapp-image-2020-10-27-at-16-52-39.jpeg","articleSection":["Blog"],"inLanguage":"pt-BR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://barco.art.br/110-filmes-series-contemporaneo/#respond"]}]},{"@type":"WebPage","@id":"https://barco.art.br/110-filmes-series-contemporaneo/","url":"https://barco.art.br/110-filmes-series-contemporaneo/","name":"110 filmes e séries para refletir sobre o contemporâneo","isPartOf":{"@id":"https://barco.art.br/#website"},"primaryImageOfPage":{"@id":"https://barco.art.br/110-filmes-series-contemporaneo/#primaryimage"},"image":{"@id":"https://barco.art.br/110-filmes-series-contemporaneo/#primaryimage"},"thumbnailUrl":"https://barco.art.br/wp-content/uploads/2020/10/whatsapp-image-2020-10-27-at-16-52-39.jpeg","datePublished":"2020-10-27T20:20:56+00:00","dateModified":"2020-10-27T21:50:44+00:00","description":"Filmes e séries que serão abordados no curso: “Cinema, Séries, Literatura e Filosofia – Reflexões Sobre o Contemporâneo”, ministrado por Daniel Augusto","breadcrumb":{"@id":"https://barco.art.br/110-filmes-series-contemporaneo/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://barco.art.br/110-filmes-series-contemporaneo/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://barco.art.br/110-filmes-series-contemporaneo/#primaryimage","url":"https://barco.art.br/wp-content/uploads/2020/10/whatsapp-image-2020-10-27-at-16-52-39.jpeg","contentUrl":"https://barco.art.br/wp-content/uploads/2020/10/whatsapp-image-2020-10-27-at-16-52-39.jpeg","width":1280,"height":720},{"@type":"BreadcrumbList","@id":"https://barco.art.br/110-filmes-series-contemporaneo/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://barco.art.br/"},{"@type":"ListItem","position":2,"name":"110 filmes e séries para refletir sobre o contemporâneo, por Daniel Augusto"}]},{"@type":"WebSite","@id":"https://barco.art.br/#website","url":"https://barco.art.br/","name":"b_arco","description":"Centro Cultural Contemporâneo","publisher":{"@id":"https://barco.art.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://barco.art.br/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"Organization","@id":"https://barco.art.br/#organization","name":"b_arco","url":"https://barco.art.br/","logo":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://barco.art.br/#/schema/logo/image/","url":"https://barco.art.br/wp-content/uploads/2019/12/logo.png","contentUrl":"https://barco.art.br/wp-content/uploads/2019/12/logo.png","width":298,"height":111,"caption":"b_arco"},"image":{"@id":"https://barco.art.br/#/schema/logo/image/"}},{"@type":"Person","@id":"https://barco.art.br/#/schema/person/ccbcf8ac4ab7bb3e8aa6cc7c2b61f4db","name":"B_arco","image":{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://barco.art.br/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/89b4988b03b497b04a1b62e11cc97eb2?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/89b4988b03b497b04a1b62e11cc97eb2?s=96&d=mm&r=g","caption":"B_arco"},"url":"https://barco.art.br/author/b_arco/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="https://barco.art.br/feed/" rel="alternate" title="Feed para b_arco »" type="application/rss+xml">
+<link href="https://barco.art.br/comments/feed/" rel="alternate" title="Feed de comentários para b_arco »" type="application/rss+xml"/>
+<link href="https://barco.art.br/110-filmes-series-contemporaneo/feed/" rel="alternate" title="Feed de comentários para b_arco » 110 filmes e séries para refletir sobre o contemporâneo, por Daniel Augusto" type="application/rss+xml"/>
+<meta content="Event Espresso Version 4.10.44.p" name="generator"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v8.26.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script async="" data-cfasync="false" data-wpfc-render="false" src="//www.googletagmanager.com/gtag/js?id=G-2CWLXVD1WJ"></script>
+<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '8.26.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/barco.art.br\/110-filmes-series-contemporaneo\/"};
+				if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-2CWLXVD1WJ',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-2CWLXVD1WJ', {"forceSSL":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/barco.art.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link href="https://barco.art.br/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3" id="wp-block-library-css" media="all" rel="stylesheet"/>
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link href="https://barco.art.br/wp-content/plugins/event-espresso-core-reg/assets/dist/eventespresso-core-blocks-frontend.29c339f5c2571b5fb45c.dist.css?ver=f0abb9f43ce252b5ebaf2cae693dd284" id="eventespresso-core-blocks-frontend-css" media="all" rel="stylesheet"/>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://barco.art.br/wp-content/plugins/anywhere-elementor-pro/includes/assets/css/ae-pro.min.css?ver=2.19" id="ae-pro-css-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/awsm-team-pro/css/team.min.css?ver=1.1.4" id="awsm-team-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.3" id="contact-form-7-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/vegas/vegas.min.css?ver=2.4.0" id="vegas-css-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.0" id="oceanwp-style-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/themes/oceanwp-child-theme-master/style.css?ver=6.5.3" id="child-style-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.10.2" id="elementor-frontend-legacy-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.10.2" id="elementor-frontend-css" media="all" rel="stylesheet"/>
+<style id="elementor-frontend-inline-css">
+.elementor-36612 .elementor-element.elementor-element-1ddf5f9a:not(.elementor-motion-effects-element-type-background), .elementor-36612 .elementor-element.elementor-element-1ddf5f9a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://barco.art.br/wp-content/uploads/2020/10/whatsapp-image-2020-10-27-at-16-52-39.jpeg");}
+</style>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36489.css?ver=1713901272" id="elementor-post-36489-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36491.css?ver=1713901272" id="elementor-post-36491-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1" id="font-awesome-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" id="simple-line-icons-css" media="all" rel="stylesheet"/>
+<link href="http://barco.art.br/wp-content/uploads/oceanwp-webfonts-css/13c26f063155375741649da90dc43758.css?ver=6.5.3" id="oceanwp-google-font-lato-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.17.0" id="elementor-icons-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-41627.css?ver=1713901272" id="elementor-post-41627-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.10.3" id="elementor-pro-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.10.2" id="font-awesome-5-all-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.10.2" id="font-awesome-4-shim-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/global.css?ver=1713901273" id="elementor-global-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36612.css?ver=1713901536" id="elementor-post-36612-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.5.3" id="oe-widgets-style-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/ocean-sticky-header/assets/css/style.min.css?ver=6.5.3" id="osh-styles-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/ele-custom-skin/assets/css/ecs-style.css?ver=3.1.7" id="ecs-styles-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36560.css?ver=1582158209" id="elementor-post-36560-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36598.css?ver=1585798974" id="elementor-post-36598-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36813.css?ver=1677145848" id="elementor-post-36813-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/uploads/elementor/css/post-36992.css?ver=1585797245" id="elementor-post-36992-css" media="all" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.5.3" id="google-fonts-1-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" id="elementor-icons-shared-0-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" id="elementor-icons-fa-brands-css" media="all" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/><script id="monsterinsights-frontend-script-js" src="https://barco.art.br/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.26.0"></script>
+<script data-cfasync="false" data-wpfc-render="false" id="monsterinsights-frontend-script-js-extra">var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/barco.art.br","hash_tracking":"false","v4_id":"G-2CWLXVD1WJ"};</script>
+<script id="jquery-core-js" src="https://barco.art.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://barco.art.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="font-awesome-4-shim-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.10.2"></script>
+<script id="ecs_ajax_load-js-extra">
+var ecs_ajax_params = {"ajaxurl":"https:\/\/barco.art.br\/wp-admin\/admin-ajax.php","posts":"{\"page\":0,\"name\":\"110-filmes-series-contemporaneo\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":\"\",\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"post_type\":[\"post\",\"page\",\"e-landing-page\"],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":12,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
+</script>
+<script id="ecs_ajax_load-js" src="https://barco.art.br/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination.js?ver=3.1.7"></script>
+<script id="ecs-script-js" src="https://barco.art.br/wp-content/plugins/ele-custom-skin/assets/js/ecs.js?ver=3.1.7"></script>
+<link href="https://barco.art.br/wp-json/" rel="https://api.w.org/"><link href="https://barco.art.br/wp-json/wp/v2/posts/39251" rel="alternate" type="application/json"/><link href="https://barco.art.br/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<meta content="WordPress 6.5.3" name="generator"/>
+<link href="https://barco.art.br/?p=39251" rel="shortlink"/>
+<link href="https://barco.art.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbarco.art.br%2F110-filmes-series-contemporaneo%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://barco.art.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbarco.art.br%2F110-filmes-series-contemporaneo%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+<script type="text/javascript">
+          jQuery(document).ready(function(){
+	jQuery("nav.elementor-pagination a").each(function(){
+	
+		var a = jQuery(this).attr("href");
+		var b = "page/";
+		var t = a.slice(-2,-1);
+		console.log(t);
+		if (!isNaN(t) ){
+			var output = a.slice(0, -2) + b + a.slice(-2);
+			jQuery(this).attr("href",output);
+
+				}
+			})
+		})
+        </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WR2JBZ7');</script>
+<!-- End Google Tag Manager -->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c51199e2ccd069bd3ad5a8fc9/0c24b9cfe0e05a5b2566febcb.js");</script>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GN6X0NR8HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GN6X0NR8HZ');
+</script>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2CWLXVD1WJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2CWLXVD1WJ');
+</script><link href="https://barco.art.br/wp-content/uploads/2018/07/cropped-icone-32x32.jpg" rel="icon" sizes="32x32"/>
+<link href="https://barco.art.br/wp-content/uploads/2018/07/cropped-icone-192x192.jpg" rel="icon" sizes="192x192"/>
+<link href="https://barco.art.br/wp-content/uploads/2018/07/cropped-icone-180x180.jpg" rel="apple-touch-icon"/>
+<meta content="https://barco.art.br/wp-content/uploads/2018/07/cropped-icone-270x270.jpg" name="msapplication-TileImage"/>
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#f58c28}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#f58c28}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#f58c28}.thumbnail:hover .link-post-svg-icon{background-color:#f58c28}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#f58c28}.widget-title{border-color:#f58c28}blockquote{border-color:#f58c28}#searchform-dropdown{border-color:#f58c28}.dropdown-menu .sub-menu{border-color:#f58c28}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#f58c28}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#f58c28}.social-widget li.oceanwp-email a:hover{border-color:#f58c28}#respond #cancel-comment-reply-link:hover{border-color:#f58c28}body .contact-info-widget.big-icons li:hover i{border-color:#f58c28}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#f58c28}blockquote,.wp-block-quote{border-left-color:#f58c28}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#f58c28}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#f47600}/* Blog CSS */.blog-entry.thumbnail-entry .blog-entry-category a{color:#a89d94}.blog-entry.thumbnail-entry .blog-entry-category a:hover{color:#a88370}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:97px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.mobile-menu-close,.after-header-content-inner >a{line-height:97px}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:180px}#site-navigation-wrap .dropdown-menu >li >a{padding:0 18px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#ffffff}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#ffffff}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#b2a89d}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#b2a89d}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{background-color:rgba(2,2,2,0.75)}.dropdown-menu .sub-menu,#searchform-dropdown,.current-shop-items-dropdown{border-color:#b2a89d}.dropdown-menu ul li.menu-item,.navigation >ul >li >ul.megamenu.sub-menu >li,.navigation .megamenu li ul.sub-menu{border-color:rgba(241,241,241,0)}.dropdown-menu ul li a.menu-link{color:#ffffff}.dropdown-menu ul li a.menu-link .owp-icon use{stroke:#ffffff}.dropdown-menu ul li a.menu-link:hover{color:#f4f4f4}.dropdown-menu ul li a.menu-link:hover .owp-icon use{stroke:#f4f4f4}.dropdown-menu ul li a.menu-link:hover{background-color:#b2a89d}@media (max-width:1280px){#top-bar-nav,#site-navigation-wrap,.oceanwp-social-menu,.after-header-content{display:none}.center-logo #site-logo{float:none;position:absolute;left:50%;padding:0;-webkit-transform:translateX(-50%);transform:translateX(-50%)}#site-header.center-header #site-logo,.oceanwp-mobile-menu-icon,#oceanwp-cart-sidebar-wrap{display:block}body.vertical-header-style #outer-wrap{margin:0 !important}#site-header.vertical-header{position:relative;width:100%;left:0 !important;right:0 !important}#site-header.vertical-header .has-template >#site-logo{display:block}#site-header.vertical-header #site-header-inner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;align-items:center;padding:0;max-width:90%}#site-header.vertical-header #site-header-inner >*:not(.oceanwp-mobile-menu-icon){display:none}#site-header.vertical-header #site-header-inner >*{padding:0 !important}#site-header.vertical-header #site-header-inner #site-logo{display:block;margin:0;width:50%;text-align:left}body.rtl #site-header.vertical-header #site-header-inner #site-logo{text-align:right}#site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon{width:50%;text-align:right}body.rtl #site-header.vertical-header #site-header-inner .oceanwp-mobile-menu-icon{text-align:left}#site-header.vertical-header .vertical-toggle,body.vertical-header-style.vh-closed #site-header.vertical-header .vertical-toggle{display:none}#site-logo.has-responsive-logo .custom-logo-link{display:none}#site-logo.has-responsive-logo .responsive-logo-link{display:block}.is-sticky #site-logo.has-sticky-logo .responsive-logo-link{display:none}.is-sticky #site-logo.has-responsive-logo .sticky-logo-link{display:block}#top-bar.has-no-content #top-bar-social.top-bar-left,#top-bar.has-no-content #top-bar-social.top-bar-right{position:inherit;left:auto;right:auto;float:none;height:auto;line-height:1.5em;margin-top:0;text-align:center}#top-bar.has-no-content #top-bar-social li{float:none;display:inline-block}.owp-cart-overlay,#side-panel-wrap a.side-panel-btn{display:none !important}}/* Footer Widgets CSS */#footer-widgets{padding:0}#footer-widgets{background-color:#a89d94}#footer-widgets,#footer-widgets p,#footer-widgets li a:before,#footer-widgets .contact-info-widget span.oceanwp-contact-title,#footer-widgets .recent-posts-date,#footer-widgets .recent-posts-comments,#footer-widgets .widget-recent-posts-icons li .fa{color:#ffffff}#footer-widgets li,#footer-widgets #wp-calendar caption,#footer-widgets #wp-calendar th,#footer-widgets #wp-calendar tbody,#footer-widgets .contact-info-widget i,#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"],#footer-widgets .posts-thumbnails-widget li,#footer-widgets .social-widget li a{border-color:#ffffff}#footer-widgets .contact-info-widget .owp-icon{border-color:#ffffff}#footer-widgets .footer-box a:hover,#footer-widgets a:hover{color:#555555}/* Footer Bottom CSS */#footer-bottom{background-color:#746a60}#footer-bottom,#footer-bottom p{color:#c1b6a0}#footer-bottom a,#footer-bottom #footer-bottom-menu a{color:#dbcdb6}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#f2e8c6}/* Sticky Header CSS */.is-sticky #site-header,.ocean-sticky-top-bar-holder.is-sticky #top-bar-wrap,.is-sticky .header-top{opacity:0.84}.is-sticky #site-header,.is-sticky #searchform-header-replace{background-color:#6450c8!important}.is-sticky #site-navigation-wrap .dropdown-menu >li >a,.is-sticky .oceanwp-mobile-menu-icon a,.is-sticky #searchform-header-replace-close{color:#ffffff}.is-sticky #site-navigation-wrap .dropdown-menu >li >a:hover,.is-sticky .oceanwp-mobile-menu-icon a:hover,.is-sticky #searchform-header-replace-close:hover{color:#ffffff}/* Typography CSS */body{font-family:Lato;font-size:18px;color:#2d2821}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{color:#8f867b}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-weight:500;font-size:15px;text-transform:lowercase}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{text-transform:lowercase}
+</style></link></link></link></meta></meta></head>
+<body class="post-template-default single single-post postid-39251 single-format-standard wp-custom-logo wp-embed-responsive oceanwp-theme dropdown-mobile has-transparent-header no-header-border content-full-width content-max-width post-in-category-blog page-header-disabled has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-41627 elementor-page-36612" itemscope="itemscope" itemtype="https://schema.org/Article">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WR2JBZ7" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="site clr" id="outer-wrap">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div class="clr" id="wrap">
+<div class="clr" id="transparent-header-wrap">
+<header class="transparent-header center-menu clr fixed-scroll fixed-header" data-height="97" id="site-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+<div class="clr" id="site-header-inner">
+<div class="clr" id="site-logo" itemscope="" itemtype="https://schema.org/Brand">
+<div class="clr" id="site-logo-inner">
+<a class="custom-logo-link" href="https://barco.art.br/" rel="home"><img alt="b_arco" class="custom-logo lazyload" data-src="https://barco.art.br/wp-content/uploads/2019/12/logo.png" data-srcset="https://barco.art.br/wp-content/uploads/2019/12/logo.png 1x, http://barco.art.br/wp-content/uploads/2019/12/logo.png 2x" decoding="async" height="111" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="298"/><noscript><img alt="b_arco" class="custom-logo" decoding="async" height="111" src="https://barco.art.br/wp-content/uploads/2019/12/logo.png" srcset="https://barco.art.br/wp-content/uploads/2019/12/logo.png 1x, http://barco.art.br/wp-content/uploads/2019/12/logo.png 2x" width="298"/></noscript></a>
+</div><!-- #site-logo-inner -->
+</div><!-- #site-logo -->
+<div class="after-header-content">
+<div class="after-header-content-inner">
+<form action="https://barco.art.br/" aria-label="Search this website" class="oceanwp-searchform" id="searchform" method="get" role="search" style="width: 150px;"><input aria-label="Insert search query" class="field" id="s" name="s" placeholder="Pesquisa" type="text"/><button aria-label="Submit your search" class="search-submit" type="submit" value=""><i aria-hidden="true" class="fa fa-search"></i></button></form> </div>
+</div>
+<div class="clr" id="site-navigation-wrap">
+<nav class="navigation main-navigation clr" id="site-navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+<ul class="main-menu dropdown-menu sf-menu" id="menu-principal"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-34096" id="menu-item-34096"><a class="menu-link" href="https://barco.art.br/quem-somos/"><span class="text-wrap">Institucional<i aria-hidden="true" class="nav-arrow fa fa-angle-down" role="img"></i></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33942" id="menu-item-33942"><a class="menu-link" href="https://barco.art.br/quem-somos/"><span class="text-wrap">_quem somos</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33945" id="menu-item-33945"><a class="menu-link" href="https://barco.art.br/equipe/"><span class="text-wrap">_equipe</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39809" id="menu-item-39809"><a class="menu-link" href="https://barco.art.br/politicas-afirmativas/"><span class="text-wrap">_políticas afirmativas</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33944" id="menu-item-33944"><a class="menu-link" href="https://barco.art.br/parceiros-e-colaboradores/"><span class="text-wrap">_parceiros &amp; colaboradores</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33962" id="menu-item-33962"><a class="menu-link" href="https://barco.art.br/contato/"><span class="text-wrap">Contato</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34214" id="menu-item-34214"><a class="menu-link" href="https://barco.art.br/agenda-cultural/"><span class="text-wrap">Agenda Cultural</span></a></li></ul>
+</li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-37474 nav-no-click" id="menu-item-37474"><a class="menu-link" href="https://barco.art.br/curso/"><span class="text-wrap">Cursos ao vivo<i aria-hidden="true" class="nav-arrow fa fa-angle-down" role="img"></i></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42750" id="menu-item-42750"><a class="menu-link" href="https://barco.art.br/programas-de-formacao/"><span class="text-wrap">_programas de formação</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42825" id="menu-item-42825"><a class="menu-link" href="https://barco.art.br/_naoficcao/"><span class="text-wrap">_não ficção</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42765" id="menu-item-42765"><a class="menu-link" href="https://barco.art.br/juridico/"><span class="text-wrap">_jurídico</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42837" id="menu-item-42837"><a class="menu-link" href="https://barco.art.br/_sul_global/"><span class="text-wrap">_sul global</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39089" id="menu-item-39089"><a class="menu-link" href="https://barco.art.br/roteiro-audiovisual/"><span class="text-wrap">_roteiro</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39090" id="menu-item-39090"><a class="menu-link" href="https://barco.art.br/audiovisual/"><span class="text-wrap">_todos</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33969" id="menu-item-33969"><a class="menu-link" href="https://barco.art.br/professores/"><span class="text-wrap">_professores</span></a></li></ul>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-41026" id="menu-item-41026"><a class="menu-link" href="https://barco-on.eadbox.com"><span class="text-wrap">cursos gravados<i aria-hidden="true" class="nav-arrow fa fa-angle-down" role="img"></i></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40410" id="menu-item-40410"><a class="menu-link" href="https://barco.art.br/curso-roteiro-jorge-furtado/"><span class="text-wrap">_curso Jorge Furtado l</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41458" id="menu-item-41458"><a class="menu-link" href="https://barco.art.br/curso-jorge-furtado-series/"><span class="text-wrap">_curso Jorge Furtado ll – Séries</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41067" id="menu-item-41067"><a class="menu-link" href="https://barco.art.br/curso-lilia-schwarcz/"><span class="text-wrap">_curso Lilia Schwarcz</span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40909" id="menu-item-40909"><a class="menu-link" href="https://barco.art.br/curso-daniel-rezende/"><span class="text-wrap">_curso Daniel Rezende</span></a></li></ul>
+</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41546" id="menu-item-41546"><a class="menu-link" href="https://app.voompplay.com.br/home"><span class="text-wrap">Sou aluno</span></a></li></ul>
+</nav><!-- #site-navigation -->
+</div><!-- #site-navigation-wrap -->
+<div class="oceanwp-mobile-menu-icon clr mobile-right">
+<a aria-label="Menu Móvel" class="mobile-menu" href="#">
+<i aria-hidden="true" class="fa fa-bars"></i>
+<span class="oceanwp-text">Menu</span>
+<span class="oceanwp-close-text">Fechar</span>
+</a>
+</div><!-- #oceanwp-mobile-menu-navbar -->
+</div><!-- #site-header-inner -->
+<div class="clr" id="mobile-dropdown">
+<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<ul class="menu" id="menu-principal-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34096"><a href="https://barco.art.br/quem-somos/">Institucional</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33942"><a href="https://barco.art.br/quem-somos/">_quem somos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33945"><a href="https://barco.art.br/equipe/">_equipe</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39809"><a href="https://barco.art.br/politicas-afirmativas/">_políticas afirmativas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33944"><a href="https://barco.art.br/parceiros-e-colaboradores/">_parceiros &amp; colaboradores</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33962"><a href="https://barco.art.br/contato/">Contato</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34214"><a href="https://barco.art.br/agenda-cultural/">Agenda Cultural</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37474"><a href="https://barco.art.br/curso/">Cursos ao vivo</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42750"><a href="https://barco.art.br/programas-de-formacao/">_programas de formação</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42825"><a href="https://barco.art.br/_naoficcao/">_não ficção</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42765"><a href="https://barco.art.br/juridico/">_jurídico</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42837"><a href="https://barco.art.br/_sul_global/">_sul global</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39089"><a href="https://barco.art.br/roteiro-audiovisual/">_roteiro</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39090"><a href="https://barco.art.br/audiovisual/">_todos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33969"><a href="https://barco.art.br/professores/">_professores</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41026"><a href="https://barco-on.eadbox.com">cursos gravados</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40410"><a href="https://barco.art.br/curso-roteiro-jorge-furtado/">_curso Jorge Furtado l</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41458"><a href="https://barco.art.br/curso-jorge-furtado-series/">_curso Jorge Furtado ll – Séries</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41067"><a href="https://barco.art.br/curso-lilia-schwarcz/">_curso Lilia Schwarcz</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40909"><a href="https://barco.art.br/curso-daniel-rezende/">_curso Daniel Rezende</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41546"><a href="https://app.voompplay.com.br/home">Sou aluno</a></li>
+</ul>
+<div class="clr" id="mobile-menu-search">
+<form action="https://barco.art.br/" aria-label="Search this website" class="mobile-searchform" method="get">
+<input aria-label="Insert search query" autocomplete="off" class="field" id="ocean-mobile-search-1" name="s" placeholder="Pesquisa" type="search" value="">
+<button aria-label="Submit search" class="searchform-submit" type="submit">
+<i aria-hidden="true" class="icon-magnifier" role="img"></i> </button>
+</input></form>
+</div><!-- .mobile-menu-search -->
+</nav>
+</div>
+</header><!-- #site-header -->
+</div>
+<main class="site-main clr" id="main" role="main">
+<div class="elementor elementor-36612 elementor-location-single post-39251 post type-post status-publish format-standard has-post-thumbnail hentry category-blog entry has-media" data-elementor-id="36612" data-elementor-type="single">
+<div class="elementor-section-wrap">
+<section class="has_ae_slider elementor-section elementor-top-section elementor-element elementor-element-1ddf5f9a elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle ae-bg-gallery-type-default" data-element_type="section" data-id="1ddf5f9a" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="has_ae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-463f603d ae-bg-gallery-type-default" data-element_type="column" data-id="463f603d">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="has_ae_slider elementor-section elementor-top-section elementor-element elementor-element-55cf119 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-element_type="section" data-id="55cf119">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="has_ae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f7eb9e ae-bg-gallery-type-default" data-element_type="column" data-id="5f7eb9e">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-24cc44a elementor-widget elementor-widget-heading" data-element_type="widget" data-id="24cc44a" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">\blog</h3> </div>
+</div>
+<div class="elementor-element elementor-element-5bb1e2d8 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-element_type="widget" data-id="5bb1e2d8" data-widget_type="theme-post-title.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default"><a href="https://barco.art.br/110-filmes-series-contemporaneo/">110 filmes e séries para refletir sobre o contemporâneo, por Daniel Augusto</a></h2> </div>
+</div>
+<div class="elementor-element elementor-element-87f9b12 elementor-widget elementor-widget-post-info" data-element_type="widget" data-id="87f9b12" data-widget_type="post-info.default">
+<div class="elementor-widget-container">
+<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+<li class="elementor-icon-list-item elementor-repeater-item-1c914ec elementor-inline-item" itemprop="datePublished">
+<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+										27 de outubro de 2020					</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a195c9f elementor-widget elementor-widget-theme-post-content" data-element_type="widget" data-id="a195c9f" data-widget_type="theme-post-content.default">
+<div class="elementor-widget-container">
+<h2><strong>Essa lista incrível compreende os filmes e séries que são referência para o curso: <a href="http://barco.art.br/eventos/cinema-series-literatura-e-filosofia-reflexoes-sobre-o-contemporaneo/">“Cinema, Séries, Literatura e Filosofia – Reflexões Sobre o Contemporâneo”</a>, ministrado por Daniel Augusto</strong></h2>
+<p><span style="font-weight: 400;">Na próxima semana, interessados em discutir as principais tendências das artes, hoje, e o que elas podem dizer sobre o contemporâneo, terão o espaço perfeito para reflexões no curso online com o Mestre em Literatura, Doutor em Filosofia e diretor de cinema, Daniel Augusto.</span></p>
+<p><span style="font-weight: 400;"><a href="http://barco.art.br/eventos/cinema-series-literatura-e-filosofia-reflexoes-sobre-o-contemporaneo/">O curso</a> irá abordar importantes discussões como </span><span style="font-weight: 400;">fake news, autoficção, lugar de fala, pós-verdade, distopia, conspiração e muitas outras, através de discussões embasadas em filmes, séries e produções literárias. A conexão destas discussões fica por conta de grandes pensadores como Giorgio Agamben, Eduardo   Viveiros   de   Castro,   Gilles   Deleuze,   Jacques   Derrida,   Jürgen  Habermas,  Jacques  Lacan, Friedrich Nietzsche e Slavoj Zizek. Já a condução deste percurso foi detalhadamente pensada por Daniel Augusto que, neste curso panorâmico e didático,  pretende levar os participantes a um mergulho nas principais reflexões sobre o contemporâneo.</span></p>
+<p><span style="font-weight: 400;">As referências para o curso são muitas e diversas, acumuladas em muitos anos de estudo e profissão por Daniel Augusto. Por isso, o blog do b_arco vai lançar aos poucos estas indicações – ao longo da semana – dando um pequeno gosto da maravilhosa reunião de filmes, livros e séries que embalam o curso. Hoje, lançamos </span><b>101 filmes e séries para refletir sobre o contemporâneo</b><span style="font-weight: 400;">, uma lista de indicações incrível que só pode ficar melhor acompanhando as discussões que serão propostas no curso. Ficou interessado? Faça sua inscrição </span><a href="http://barco.art.br/eventos/cinema-series-literatura-e-filosofia-reflexoes-sobre-o-contemporaneo/"><span style="font-weight: 400;">neste link</span></a><span style="font-weight: 400;">. </span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ação entre amigos (1998)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Acossado (À bout de souffle, 1960)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Adaptação (Adaptation, 2002)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alphaville (Alphaville, 1965)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Amélia (2000)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Amor (Amour, 2012)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Arquitetura da destruição (</span><span style="font-weight: 400;">Undergångens arkitektur</span><span style="font-weight: 400;">,1989)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O artista (The artist, 2011)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ave, César! (Hail Caesar!, 2016)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bacurau (2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Barton Fink (Barton Fink, 1991)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Birdman (Birdman, 2014)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blade Runner: o caçador de androides (Blade Runner, 1982)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Boogie Nights (Boogie Nights, 1997)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Brazil: o filme (Brazil, 1985)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Breaking Bad (Breaking Bad, 2008-2013)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cantando na chuva (Singin’ in the Rain, 1952)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Carol (Carol, 2015)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cidade dos sonhos (Mulholland Drive, 2001)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cliente morto não paga (Dead men don’t wear plaid, 1982)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Close-up (Nema-ye Nazdik, 1990)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Como nascem os anjos (1996)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Um copo de cólera (1999)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Coração Iluminado (1998)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Corpos Ardentes (Body Heat, 1981)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cosmópolis (Cosmopolis, 2012)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Crepúsculo dos deuses (Sunset Boulevard, 1950)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cronicamente inviável (2000)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Desconstruindo Harry (Deconstructing Harry, 1997)  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Deus e o diabo na terra do sol (1964)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O desprezo (Le mépris, 1963)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dirigindo no escuro (Hollywood ending, 2002)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Django livre (Django unchained, 2012)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dor e glória (Dolor y gloria, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dublê de corpo (Body double, 1984)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ed Wood (Ed Wood, 1994)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Era uma vez em Hollywood (Once upon a time in Hollywood, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Espero tua (re)volta (2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Euphoria (Euphoria, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fahrenheit 451 (Fahrenheit 451, 1966)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A forma da água (The shape of water, 2017)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O formidável (Le redoutable, 2017)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Freud: além da alma (Freud, 1962(</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Garota dinamarquesa (The Danish girl, 2015)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A Grande Aposta (The big short, 2015)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Guerra nas estrelas (Star wars, 1977)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Um homem com uma câmera (</span><span style="font-weight: 400;">Человек с киноаппаратом</span><span style="font-weight: 400;">, 1929)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Estou me guardando para quando o carnaval chegar (2019) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Eu, Daniel Blake (I, Daniel Blake, 2016)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ex-pajé (Ex-pajé, 2018)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Feito em casa (Homemade, 2020)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fuga de Nova York (Escape from New York, 1981)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">As horas (The hours, 2002)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Imagem e Palavra (Le livre d’image, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Império dos sonhos (Inland Empire, 2006)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Os incompreendidos (Les quatre cents coups, 1959)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Indústria americana (American factory, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Infiltrado na Klan (BlacKkKlansman, 2018)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Um instante de inocência (Nun va Goldoon, 1996)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A invenção de Hugo Cabret (Hugo, 2011)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Irma Vep (Irma Vep, 1996)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O jogador (The player, 1992) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">As lágrimas amargas de Petra von Kant (</span><span style="font-weight: 400;">Die bitteren Tränen der Petra von Kant, 1972)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Laranja mecânica (A clockwork orange, 1971)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O lobo de Wall Street (The wolf of Wall Street, 2013)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mad Max: estrada da Fúria (Mad Max: Fury Road, 2015)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mapas para as estrelas (Maps to the stars, 2014)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Matrix (Matrix, 1999)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Me chame pelo seu nome (Call me by your name, 2017)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Melancolia (Melancholia, 2011)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Metrópolis (Metropolis, 1927)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mr. Robot: sociedade hacker (Mr. Robot,2015-2019) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mônica e o desejo (</span><span style="font-weight: 400;">Sommaren med Monika</span><span style="font-weight: 400;">,1953)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Moonlight (Moonlight, 2016)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Os mortos não morrem (The dead don’t die, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Uma mulher fantástica (Una mujer fantástica, 2017)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mulheres à beira de um ataque de nervos (</span><span style="font-weight: 400;">Mujeres al borde de un ataque de nervios, 1988)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No mundo de 2020 (Soylent green, 1973)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A noite americana (La nuit américaine, 1973)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O oficial e o espião (J’accuse, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Oito e meio (8½, 1963)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O outro lado do vento (The other side of the wind, 2018) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O planeta dos macacos (Planet of the Apes, 1968)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The plot against America (The plot against America, 2020)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">As praias de Agnès (Les plages d’Agnès, 2008)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Privacidade hackeada (The great hack, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">O professor substituto (L’heure de la sortie, 2018)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">À prova de morte (Death proof, 2007)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pulp fiction (Pulp fiction, 1994)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Quem matou Malcolm X? (Who killed Malcolm X, 2020) </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rebobine, por favor (Be kind rewind, 2008)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rede de ódio (The hater, 2020)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Retrato de uma jovem em chamas (Portrait de la jeune fille en feu, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Roma, cidade aberta (Roma città aperta, 1945)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rosa Púrpura do Cairo (The purple rose of Cairo, 1985)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Salve o cinema (Salam Cinema, 1995)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Saneamento básico, o filme (2007)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sex education (Sex education, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Snowden: herói ou traidor (Snowden, 2016)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Stranger things (Stranger things, 2016-)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Trapped (Trapped, 2015)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tudo que o céu permite (All that heaven allows, 1955)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Os vampiros (Les Vampires, 1919)  </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Vazante (Vazante, 2017)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">V de vingança (V for vendetta, 2005)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Vestida para matar (Dressed to kill, 1980)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A vida invisível (2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Vidas duplas (Doubles vies, 2018)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Você não estava aqui (Sorry we missed you, 2019)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Years and years (Years and years, 2019)</span></li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</main><!-- #main -->
+<footer class="site-footer" id="footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+<div class="clr" id="footer-inner">
+<div class="oceanwp-row clr" id="footer-widgets">
+<div class="footer-widgets-inner">
+<div class="elementor elementor-36491" data-elementor-id="36491" data-elementor-type="wp-post">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="has_ae_slider elementor-section elementor-top-section elementor-element elementor-element-0395ad2 elementor-section-full_width elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-element_type="section" data-id="0395ad2" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="has_ae_slider elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-686e78f ae-bg-gallery-type-default" data-element_type="column" data-id="686e78f">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="has_ae_slider elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f103309 ae-bg-gallery-type-default" data-element_type="column" data-id="f103309">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-3fe32ef elementor-widget elementor-widget-heading" data-element_type="widget" data-id="3fe32ef" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">horário de atendimento</h2> </div>
+</div>
+<div class="elementor-element elementor-element-f08795f elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="f08795f" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p> Segunda a sexta, das 10h às 19h.</p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-a9da90c elementor-widget elementor-widget-heading" data-element_type="widget" data-id="a9da90c" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">endereço</h2> </div>
+</div>
+<div class="elementor-element elementor-element-96fe0c9 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="96fe0c9" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>Rua Dr. Virgílio de Carvalho Pinto, 445<br/>Pinheiros – São Paulo – SP, 05415-020 </p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="has_ae_slider elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bdc72fd ae-bg-gallery-type-default" data-element_type="column" data-id="bdc72fd" data-settings='{"background_background":"classic"}'>
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4328d22 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4328d22" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">fale conosco</h2> </div>
+</div>
+<div class="elementor-element elementor-element-d93e4a6 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="d93e4a6" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p><strong>atendimento@barco.art.br<br/>WhatsApp (11) 99980-5869</strong></p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-c18244b elementor-widget elementor-widget-heading" data-element_type="widget" data-id="c18244b" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">Siga o b_arco nas<br/>
+redes sociais</h2> </div>
+</div>
+<div class="elementor-element elementor-element-7bf4c50 elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-element_type="widget" data-id="7bf4c50" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-16791f1" href="https://www.facebook.com/barco.centrocultural/" target="_blank">
+<span class="elementor-screen-only">Facebook</span>
+<i class="fab fa-facebook"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-180c651" href="https://www.instagram.com/b_arco/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-e973733" href="https://www.youtube.com/canalbarco" target="_blank">
+<span class="elementor-screen-only">Youtube</span>
+<i class="fab fa-youtube"></i> </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="has_ae_slider elementor-section elementor-top-section elementor-element elementor-element-75425e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default ae-bg-gallery-type-default" data-element_type="section" data-id="75425e8" data-settings='{"background_background":"classic"}'>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="has_ae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-82e5b28 ae-bg-gallery-type-default" data-element_type="column" data-id="82e5b28">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-86830cf elementor-widget elementor-widget-heading" data-element_type="widget" data-id="86830cf" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Copyright 2019 - b_arco | Desenvolvido por <a href="http://www.4cube.com.br" target="_blank">4cube</a>.</h4> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div><!-- .container -->
+</div><!-- #footer-widgets -->
+</div><!-- #footer-inner -->
+</footer><!-- #footer -->
+</div><!-- #wrap -->
+</div><!-- #outer-wrap -->
+<a aria-label="Scroll to the top of the page" class="scroll-top-right" href="#" id="scroll-top"><i aria-hidden="true" class="fa fa-angle-up" role="img"></i></a>
+<script async="" src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/d6beb6a0-c5e7-4abb-9fcb-ebfa824a8b09-loader.js" type="text/javascript"></script> <link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" id="elementor-icons-fa-regular-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" id="elementor-icons-fa-solid-css" media="all" rel="stylesheet"/>
+<link href="https://barco.art.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.10.2" id="e-animations-css" media="all" rel="stylesheet"/>
+<script id="wp-polyfill-inert-js" src="https://barco.art.br/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"></script>
+<script id="regenerator-runtime-js" src="https://barco.art.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0"></script>
+<script id="wp-polyfill-js" src="https://barco.art.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"></script>
+<script id="wp-hooks-js" src="https://barco.art.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18"></script>
+<script id="wp-i18n-js" src="https://barco.art.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="wp-url-js" src="https://barco.art.br/wp-includes/js/dist/url.min.js?ver=421139b01f33e5b327d8"></script>
+<script id="eejs-core-js-before">
+var eejsdata={"data":{"eejs_api_nonce":"22a0177497","paths":{"base_rest_route":"https:\/\/barco.art.br\/wp-json\/","rest_route":"https:\/\/barco.art.br\/wp-json\/ee\/v4.8.36\/","collection_endpoints":{"answer":"\/ee\/v4.8.36\/answers","attendee":"\/ee\/v4.8.36\/attendees","change_log":"\/ee\/v4.8.36\/change_logs","checkin":"\/ee\/v4.8.36\/checkins","country":"\/ee\/v4.8.36\/countries","currency":"\/ee\/v4.8.36\/currencies","currency_payment_method":"\/ee\/v4.8.36\/currency_payment_methods","datetime":"\/ee\/v4.8.36\/datetimes","datetime_ticket":"\/ee\/v4.8.36\/datetime_tickets","event":"\/ee\/v4.8.36\/events","event_message_template":"\/ee\/v4.8.36\/event_message_templates","event_question_group":"\/ee\/v4.8.36\/event_question_groups","event_venue":"\/ee\/v4.8.36\/event_venues","line_item":"\/ee\/v4.8.36\/line_items","message":"\/ee\/v4.8.36\/messages","message_template":"\/ee\/v4.8.36\/message_templates","message_template_group":"\/ee\/v4.8.36\/message_template_groups","payment":"\/ee\/v4.8.36\/payments","payment_method":"\/ee\/v4.8.36\/payment_methods","price":"\/ee\/v4.8.36\/prices","price_type":"\/ee\/v4.8.36\/price_types","question":"\/ee\/v4.8.36\/questions","question_group":"\/ee\/v4.8.36\/question_groups","question_group_question":"\/ee\/v4.8.36\/question_group_questions","question_option":"\/ee\/v4.8.36\/question_options","registration":"\/ee\/v4.8.36\/registrations","registration_payment":"\/ee\/v4.8.36\/registration_payments","state":"\/ee\/v4.8.36\/states","status":"\/ee\/v4.8.36\/statuses","term":"\/ee\/v4.8.36\/terms","term_relationship":"\/ee\/v4.8.36\/term_relationships","term_taxonomy":"\/ee\/v4.8.36\/term_taxonomies","ticket":"\/ee\/v4.8.36\/tickets","ticket_price":"\/ee\/v4.8.36\/ticket_prices","ticket_template":"\/ee\/v4.8.36\/ticket_templates","transaction":"\/ee\/v4.8.36\/transactions","venue":"\/ee\/v4.8.36\/venues","wp_user":"\/ee\/v4.8.36\/wp_users","person":"\/ee\/v4.8.36\/people","person_post":"\/ee\/v4.8.36\/person_posts"},"primary_keys":{"answer":"ANS_ID","attendee":"ATT_ID","change_log":"LOG_ID","checkin":"CHK_ID","country":"CNT_ISO","currency":"CUR_code","currency_payment_method":"CPM_ID","datetime":"DTT_ID","datetime_ticket":"DTK_ID","event":"EVT_ID","event_message_template":"EMT_ID","event_question_group":"EQG_ID","event_venue":"EVV_ID","line_item":"LIN_ID","message":"MSG_ID","message_template":"MTP_ID","message_template_group":"GRP_ID","payment":"PAY_ID","payment_method":"PMD_ID","price":"PRC_ID","price_type":"PRT_ID","question":"QST_ID","question_group":"QSG_ID","question_group_question":"QGQ_ID","question_option":"QSO_ID","registration":"REG_ID","registration_payment":"RPY_ID","state":"STA_ID","status":"STS_ID","term":"term_id","term_relationship":["object_id","term_taxonomy_id"],"term_taxonomy":"term_taxonomy_id","ticket":"TKT_ID","ticket_price":"TKP_ID","ticket_template":"TTM_ID","transaction":"TXN_ID","venue":"VNU_ID","wp_user":"ID","person":"PER_ID","person_post":"PTP_ID"},"site_url":"https:\/\/barco.art.br\/","admin_url":"https:\/\/barco.art.br\/wp-admin\/"},"brandName":"Event Espresso","site_formats":{"date_formats":{"js":{"date":"d 'de' MM 'de' yy","time":"HH:mm"},"moment":"D de' MMMM de' YYYY HH:mm","moment_split":{"date":"D de' MMMM de' YYYY","time":"HH:mm"}}},"currency_config":{"code":"BRL","singularLabel":"Real","pluralLabel":"Reais","sign":"R$","signB4":true,"decimalPlaces":2,"decimalMark":",","thousandsSeparator":"."},"default_timezone":{"pretty":"S\u00e3o Paulo","string":"America\/Sao_Paulo","offset":-10800},"locale":{"user":"pt_BR","site":"pt_BR"}}}
+</script>
+<script id="eejs-core-js" src="https://barco.art.br/wp-content/plugins/event-espresso-core-reg/assets/dist/eejs-core.ff8059c48a61049784b1.dist.js?ver=ff8059c48a61049784b147a7a92fbb73"></script>
+<script id="eventespresso-core-blocks-frontend-js-before">
+eejs.i18n.setLocaleData( {"":{"domain":"event_espresso","lang":"pt_BR","plural_forms":"nplurals=2; plural=(n > 1);"}}, "event_espresso" );
+</script>
+<script id="eventespresso-core-blocks-frontend-js" src="https://barco.art.br/wp-content/plugins/event-espresso-core-reg/assets/dist/eventespresso-core-blocks-frontend.f0abb9f43ce252b5ebaf.dist.js?ver=f0abb9f43ce252b5ebaf2cae693dd284"></script>
+<script id="ae-pro-js-js-extra">
+var aepro = {"ajaxurl":"https:\/\/barco.art.br\/wp-admin\/admin-ajax.php","current_url":"https%3A%2F%2Fbarco.art.br%2F110-filmes-series-contemporaneo%2F","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"plugin_url":"https:\/\/barco.art.br\/wp-content\/plugins\/anywhere-elementor-pro","queried_page":{"ID":39251,"page_type":"single"}};
+</script>
+<script id="ae-pro-js-js" src="https://barco.art.br/wp-content/plugins/anywhere-elementor-pro/includes/assets/js/ae-pro.min.js?ver=2.19"></script>
+<script id="aep-build-js-extra">
+var aepro = {"ajaxurl":"https:\/\/barco.art.br\/wp-admin\/admin-ajax.php","current_url":"https%3A%2F%2Fbarco.art.br%2F110-filmes-series-contemporaneo%2F","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"plugin_url":"https:\/\/barco.art.br\/wp-content\/plugins\/anywhere-elementor-pro","queried_page":{"ID":39251,"page_type":"single"}};
+</script>
+<script id="aep-build-js" src="https://barco.art.br/wp-content/plugins/anywhere-elementor-pro/build/index.js?ver=2.19"></script>
+<script id="awsm-team-js" src="https://barco.art.br/wp-content/plugins/awsm-team-pro/js/team.min.js?ver=1.1.4"></script>
+<script id="swv-js" src="https://barco.art.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.3"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/barco.art.br\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script id="contact-form-7-js" src="https://barco.art.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.3"></script>
+<script id="vegas-js" src="https://barco.art.br/wp-content/plugins/anywhere-elementor-pro/includes/assets/lib/vegas/vegas.min.js?ver=2.4.0"></script>
+<script async="" data-wp-strategy="async" id="comment-reply-js" src="https://barco.art.br/wp-includes/js/comment-reply.min.js?ver=6.5.3"></script>
+<script id="imagesloaded-js" src="https://barco.art.br/wp-includes/js/imagesloaded.min.js?ver=5.0.0"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"20790e45cb","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/barco.art.br\/wp-admin\/admin-ajax.php","stickyChoose":"auto","stickyStyle":"fixed","shrinkLogoHeight":"67","stickyEffect":"none","hasStickyTopBar":"1","hasStickyMobile":""};
+</script>
+<script id="oceanwp-main-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=1.0"></script>
+<script id="oceanwp-drop-down-mobile-menu-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=1.0"></script>
+<script id="ow-magnific-popup-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=1.0"></script>
+<script id="oceanwp-lightbox-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=1.0"></script>
+<script id="ow-flickity-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=1.0"></script>
+<script id="oceanwp-slider-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=1.0"></script>
+<script id="oceanwp-scroll-effect-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=1.0"></script>
+<script id="oceanwp-scroll-top-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=1.0"></script>
+<script id="oceanwp-select-js" src="https://barco.art.br/wp-content/themes/oceanwp/assets/js/select.min.js?ver=1.0"></script>
+<script id="smush-lazy-load-js" src="https://barco.art.br/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.12.4"></script>
+<script id="osh-js-scripts-js" src="https://barco.art.br/wp-content/plugins/ocean-sticky-header/assets/js/sticky-header.min.js"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://barco.art.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.10.3"></script>
+<script id="elementor-webpack-runtime-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.10.2"></script>
+<script id="elementor-frontend-modules-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.10.2"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/barco.art.br\/wp-admin\/admin-ajax.php","nonce":"1120106bdf","urls":{"assets":"https:\/\/barco.art.br\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/barco.art.br\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/barco.art.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script id="elementor-pro-frontend-js" src="https://barco.art.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.10.3"></script>
+<script id="elementor-waypoints-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2"></script>
+<script id="jquery-ui-core-js" src="https://barco.art.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2"></script>
+<script id="swiper-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6"></script>
+<script id="share-link-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.10.2"></script>
+<script id="elementor-dialog-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Celular","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Celular extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.10.2","is_static":false,"experimentalFeatures":{"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"kit-elements-defaults":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/barco.art.br\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":39251,"title":"110%20filmes%20e%20s%C3%A9ries%20para%20refletir%20sobre%20o%20contempor%C3%A2neo","excerpt":"Essa lista incr\u00edvel compreende os filmes e s\u00e9ries que ser\u00e3o abordados no curso: \u201cCinema, S\u00e9ries, Literatura e Filosofia \u2013 Reflex\u00f5es Sobre o Contempor\u00e2neo\u201d, ministrado por Daniel Augusto","featuredImage":"https:\/\/barco.art.br\/wp-content\/uploads\/2020\/10\/whatsapp-image-2020-10-27-at-16-52-39-1024x576.jpeg"}};
+</script>
+<script id="elementor-frontend-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.10.2"></script>
+<script id="pro-preloaded-elements-handlers-js" src="https://barco.art.br/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.10.3"></script>
+<script id="preloaded-modules-js" src="https://barco.art.br/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.10.2"></script>
+<script id="e-sticky-js" src="https://barco.art.br/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.10.3"></script>
+<div style="text-align: center;"><a href="https://www.monsterinsights.com/?utm_source=verifiedBadge&amp;utm_medium=verifiedBadge&amp;utm_campaign=verifiedbyMonsterInsights" rel="nofollow" target="_blank"><img alt="Verified by MonsterInsights" class="lazyload" data-src="https://barco.art.br/wp-content/plugins/google-analytics-for-wordpress/assets/images/monsterinsights-badge-light.svg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="display: inline-block" title="Verified by MonsterInsights"/><noscript><img alt="Verified by MonsterInsights" src="https://barco.art.br/wp-content/plugins/google-analytics-for-wordpress/assets/images/monsterinsights-badge-light.svg" style="display: inline-block" title="Verified by MonsterInsights"/></noscript></a></div></body>
+</html>

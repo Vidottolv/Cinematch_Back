@@ -2,6 +2,7 @@ import requests
 import os
 import time
 import json
+import random
 from bs4 import BeautifulSoup
 
 def clear():
@@ -86,7 +87,6 @@ def search_movies(iduser):
             "IDGenre": genero_dict[gen]['IDGenre'], 
             "GenreName": genero_dict[gen]['GenreName']}
         response = requests.post("http://localhost:8000/search/", json=data)
-         
     search_url = f"https://www.google.com/search?q=filmes+de+{genre}"
     response = requests.get(search_url)
 
@@ -147,9 +147,60 @@ def search_movies(iduser):
                 recap(aprox_movie)
 
 def find_by_preference(iduser,nameuser):
-    requests.get("http://localhost:8000/choose/")
-    print(f"Certo, {nameuser}. Iremos pesquisar por filmes com:")
+    url = "http://localhost:8000/get_preferences"
+    data = {"IDUser": iduser}
+    response = requests.get(url, params=data)
+    response_content = response.content.decode('utf-8')  
+    data = json.loads(response_content) 
+    genre_movie = data['IDGenre']
+    genre_name = data ['GenreName']    
+    kind_movie = data['KindMovie']
+    age_movie = data['AgeMovie']
+    end_movie = data['EndMovie']    
+    if response.status_code == 200:
+        print(f"Certo, {nameuser}. \nIremos pesquisar por filmes com: \n{kind_movie} / {age_movie} / {end_movie}.")
+        if kind_movie == 'Realidade Contemporanea':
+            response = requests.get(f"https://barco.art.br/110-filmes-series-contemporaneo/")
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.content, "html.parser")
+                with open("soup_real.txt", "w", encoding='utf-8') as arquivo:
+                    arquivo.write(str(soup))
+                with open("soup_real.txt", "r", encoding='utf-8') as arquivo:
+                    soup_content = arquivo.read()
+                    soup = BeautifulSoup(soup_content, "html.parser")
+                    movie_titles = []
+                    for li in soup.find_all("li", style="font-weight: 400;"):
+                        span = li.find("span", style="font-weight: 400;")
+                        if span:
+                            movie_titles.append(span.text.strip())
+                            selected_titles = random.sample(movie_titles, min(10, len(movie_titles)))            
+                    clear()
+                    print("Filmes Encontrados:")
+                    for i, title in enumerate(selected_titles, start=1):
 
+                        print(f"{i}. {title}")
+                    print("\nE aí, gostou de algum filme? Se sim, digite <S>im, se não gostou, digite <N>ão.")
+                    boolValid = input()
+                    while boolValid not in ['s','S','n','N']:
+                        boolValid = input("Insira um valor válido!\n")
+                
+                    if boolValid in ['S', 's']:
+                        movie_number = input("Que ótimo! Digite o número do filme que você gostou: ")
+                        while not movie_number.isdigit() or int(movie_number) < 1 or int(movie_number) > 10:
+                            movie_number = input("Número inválido! Digite um número entre 1 e 10: ")
+                        movie_index = int(movie_number) - 1
+                        data = {
+                            "IDUser":iduser,
+                            "IDGenre": genre_movie,
+                            "GenreName": genre_name,
+                            "MovieName": selected_titles[movie_index]}
+                        requests.post("http://localhost:8000/choose/", json=data)
+            
+                        print(f"Você escolheu: {selected_titles[movie_index]}.\nAproveite seu filme!")
+                        return
+
+        elif kind_movie == 'Futuro distopico':
+            response = requests.get(f"https://filmow.com/listas/futuro-distopico-l63546/")            
 
 if __name__ == "__main__":
     genre = input("Escreva o gênero que você quer assistir: ")
