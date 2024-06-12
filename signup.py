@@ -79,8 +79,6 @@ def signup():
             "Username": newUsername,
             "Password": newPassword}
         response = requests.post(url, json=data)
-        print('🚀 ~ ', response)
-        print(data)
         
         if response.status_code == 201:
             print(newEmail, newPassword, confirmPassword)

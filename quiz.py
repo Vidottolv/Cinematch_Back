@@ -148,22 +148,13 @@ def quiz(iduser):
         "KindMovie": Kindmovie
     }
     
-    print("Dados a serem enviados para a API:", json.dumps(data, indent=4))
     response = requests.post("http://localhost:8000/preferences/", json=data)
    
     if response.status_code == 201:
         print("Preferências salvas com sucesso!")
     else:
         print(f"Erro ao salvar preferências: {response.status_code}")
-        print("URL:", response.url)
-        print("Razão:", response.reason)
-        print("Conteúdo:", response.content)
-        print("Texto:", response.text)
-        try:
-            print("Resposta JSON:", response.json())
-        except ValueError:
-            print("A resposta não está em formato JSON.")
-        print("Cabeçalhos:", response.headers)
+
 
 
 if __name__ == "__main__":
