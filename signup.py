@@ -64,12 +64,12 @@ def signup():
         print("Vamos criar seu usuário!")
         newEmail = input("Insira um E-mail válido: ")
         newUsername = input("Insira seu nome: ")
-        newPassword = input("Insira sua senha: ")
-        confirmPassword = input("Confirme sua senha: ")
+        newPassword = getpass.getpass("Insira sua senha: ")
+        confirmPassword = getpass.getpass("Confirme sua senha: ")
     
         while newPassword != confirmPassword:
-            newPassword = input("Insira sua senha: ")
-            confirmPassword = input("Confirme sua senha: ")
+            newPassword = getpass.getpass("Insira sua senha: ")
+            confirmPassword = getpass.getpass("Confirme sua senha: ")
             
             print("Senhas não coincidem. Vamos tentar novamente!")
         
@@ -86,7 +86,8 @@ def signup():
             response_content = response.content.decode('utf-8')  
             user_data = json.loads(response_content)     
             current_id_user = user_data['IDUser']
-            quiz(current_id_user)        
+            current_name_user = user_data['Username']
+            quiz(current_id_user,current_name_user)        
         else:
             print(f"Erro ao criar usuário: {response.text}")
             return

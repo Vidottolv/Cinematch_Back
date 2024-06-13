@@ -1,5 +1,14 @@
 import requests
 import json
+import os
+import time
+from scrap import find_by_preference, search_movies
+
+def clear():
+    if os.name == 'nt': 
+        os.system('cls')
+    else:
+        os.system('clear')
 
 def get_pergunta_1():
     global IDgenre, Gernename
@@ -126,7 +135,7 @@ def get_pergunta_5():
         print(f"Erro ao buscar opções: {response.status_code}")
         exit()  
         
-def quiz(iduser):
+def quiz(iduser,nameuser):
     print("Bora começar seu Quiz? Ele é importante para podermos melhorar as buscas por sua preferência.")
     get_pergunta_1()
     get_pergunta_2()
@@ -152,10 +161,22 @@ def quiz(iduser):
    
     if response.status_code == 201:
         print("Preferências salvas com sucesso!")
+        time.sleep(1)
+        clear()
+        print(f"Bem vindo, {nameuser}.\n\n"
+              +"Gostaria de pesquisar os filmes de que forma hoje?\n"
+              +"1. Pesquisando através de minhas preferências.\n"
+              +"2. Pesquisa por gênero.")
+        kind_search = int(input())
+        while kind_search not in [1,2]:
+            print("Insira um valor válido.\n")
+        
+        if kind_search == 1:
+            find_by_preference(iduser,nameuser)
+        elif kind_search == 2:
+            search_movies(iduser) 
     else:
         print(f"Erro ao salvar preferências: {response.status_code}")
-
-
 
 if __name__ == "__main__":
     quiz()
